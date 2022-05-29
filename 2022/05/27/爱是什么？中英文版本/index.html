@@ -16,24 +16,25 @@
   <meta name="author" content="沐沐">
   <meta name="keywords" content="编程学习笔记">
   
-    <meta name="description" content="MYSQL 数据库SQL通用语法 SQL语句可以单行或多行书写，以分号结尾。  SQL语句可以使用空格&#x2F;缩进来增强语句的可读性。  MySQL数据库的SQL语句不区分大小写，关键字建议使用大写。  注释：单行注释：–注释内容 或 #注释内容(MySQL特有) ​			多行注释：&#x2F;* 注释内容 *&#x2F;   SQL分类1DDL   DML   DQL   DCL    DD">
+    <meta name="description" content="爱是什么？中英文版本爱是什么？ What is love? 爱是爱心，爱是美好的语言，爱是无私的奉献，爱会带给你无限的温暖，爱会带给你健康和快乐…… Love is love, love is a beautiful language, love is selfless dedication, love will bring you infinite warmth, love will bring">
 <meta property="og:type" content="article">
-<meta property="og:title" content="MySQLのDDL相关">
-<meta property="og:url" content="http://www.itmua.tk/2022/05/27/MySQL%E3%81%AEDDL%E7%9B%B8%E5%85%B3/index.html">
+<meta property="og:title" content="爱是什么？（中英文版本）">
+<meta property="og:url" content="http://www.itmua.tk/2022/05/27/%E7%88%B1%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88%E6%9C%AC/index.html">
 <meta property="og:site_name" content="Mu&#39;s NoteBook">
-<meta property="og:description" content="MYSQL 数据库SQL通用语法 SQL语句可以单行或多行书写，以分号结尾。  SQL语句可以使用空格&#x2F;缩进来增强语句的可读性。  MySQL数据库的SQL语句不区分大小写，关键字建议使用大写。  注释：单行注释：–注释内容 或 #注释内容(MySQL特有) ​			多行注释：&#x2F;* 注释内容 *&#x2F;   SQL分类1DDL   DML   DQL   DCL    DD">
+<meta property="og:description" content="爱是什么？中英文版本爱是什么？ What is love? 爱是爱心，爱是美好的语言，爱是无私的奉献，爱会带给你无限的温暖，爱会带给你健康和快乐…… Love is love, love is a beautiful language, love is selfless dedication, love will bring you infinite warmth, love will bring">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2022-05-27T12:48:43.000Z">
-<meta property="article:modified_time" content="2022-05-27T12:51:16.778Z">
+<meta property="article:published_time" content="2022-05-27T12:35:03.000Z">
+<meta property="article:modified_time" content="2022-05-29T14:28:03.944Z">
 <meta property="article:author" content="沐沐">
-<meta property="article:tag" content="MySQL">
+<meta property="article:tag" content="文学">
+<meta property="article:tag" content="爱情">
 <meta name="twitter:card" content="summary_large_image">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
   
   
-  <title>MySQLのDDL相关 - Mu&#39;s NoteBook</title>
+  <title>爱是什么？（中英文版本） - Mu&#39;s NoteBook</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -221,7 +222,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="MySQLのDDL相关"></span>
+            <span id="subtitle" data-typed-text="爱是什么？（中英文版本）"></span>
           
         </div>
 
@@ -232,7 +233,7 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2022-05-27 20:48" pubdate>
+        <time datetime="2022-05-27 20:35" pubdate>
           2022年5月27日 晚上
         </time>
       </span>
@@ -244,7 +245,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          1.3k 字
+          2k 字
         
       </span>
     
@@ -255,7 +256,7 @@
         
         
         
-          11 分钟
+          17 分钟
         
       </span>
     
@@ -293,77 +294,30 @@
         <div id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">MySQLのDDL相关</h1>
+            <h1 style="display: none">爱是什么？（中英文版本）</h1>
             
             <div class="markdown-body">
               
-              <h1 id="MYSQL-数据库"><a href="#MYSQL-数据库" class="headerlink" title="MYSQL 数据库"></a>MYSQL 数据库</h1><h3 id="SQL通用语法"><a href="#SQL通用语法" class="headerlink" title="SQL通用语法"></a>SQL通用语法</h3><ol>
-<li><p>SQL语句可以单行或多行书写，以分号结尾。</p>
-</li>
-<li><p>SQL语句可以使用空格&#x2F;缩进来增强语句的可读性。</p>
-</li>
-<li><p>MySQL数据库的SQL语句不区分大小写，关键字建议使用大写。</p>
-</li>
-<li><p>注释：单行注释：–注释内容 或 #注释内容(MySQL特有)</p>
-<p>​			多行注释：&#x2F;* 注释内容 *&#x2F;</p>
-</li>
-</ol>
-<h3 id="SQL分类"><a href="#SQL分类" class="headerlink" title="SQL分类"></a>SQL分类</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">DDL   DML   DQL   DCL<br></code></pre></td></tr></table></figure>
-
-
-
-<h3 id="DDL—数据库操作—查询"><a href="#DDL—数据库操作—查询" class="headerlink" title="DDL—数据库操作—查询"></a>DDL—数据库操作—查询</h3><p>查询所有数据库</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SHOW DATABASES;<br></code></pre></td></tr></table></figure>
-
-<p>查询当前数据库</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT DATABASE();<br></code></pre></td></tr></table></figure>
-
-<p>创建</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">CREATE DATABASE [IF NOT EXISTS] 数据库名 [DEFAULT CHARSET 字符集] [COLLATE 排序规则];<br></code></pre></td></tr></table></figure>
-
-<p>删除</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">DROP DATABASE [IF EXISTS] 数据库名;<br></code></pre></td></tr></table></figure>
-
-<p>使用</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">USE 数据库名;<br></code></pre></td></tr></table></figure>
-
-<h3 id="DDL—表操作—查询"><a href="#DDL—表操作—查询" class="headerlink" title="DDL—表操作—查询"></a>DDL—表操作—查询</h3><p>查询当前数据库所有表</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SHOW TABLES;<br></code></pre></td></tr></table></figure>
-
-<p>查询表结构</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">DESC 表名;<br></code></pre></td></tr></table></figure>
-
-<p>查询指定表的建表语句</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SHOW CREATE TABLE 表名;<br></code></pre></td></tr></table></figure>
-
-<h3 id="DDL—表操作—创建"><a href="#DDL—表操作—创建" class="headerlink" title="DDL—表操作—创建"></a>DDL—表操作—创建</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs mysql">CREATE TABLE 表名(<br><br>字段1 字段1类型 [comment &#x27;字段1注释&#x27;],<br><br>字段2 字段2类型 [comment &#x27;字段2注释&#x27;],<br><br>......<br><br>字段N 字段N类型 [comment &#x27;字段N注释&#x27;]<br><br>)[COMMENT &#x27;表注释&#x27;];<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs mysql">例子：<br>create table test(<br><br>id  int  comment &#x27;编号&#x27;,<br><br>name varchar(50) comment &#x27;姓名&#x27;,<br><br>gender char(1) comment&#x27;性别&#x27;<br><br>)comment&#x27;用户表&#x27;;<br></code></pre></td></tr></table></figure>
-
-<h3 id="DDL—表操作—修改"><a href="#DDL—表操作—修改" class="headerlink" title="DDL—表操作—修改"></a>DDL—表操作—修改</h3><p>添加字段</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER TABLE 表名 ADD 字段名 类型(长度) [COMMENT 注释] [约束];<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs mysql">例子：为emp表增加一个新的字段”昵称”为nickname，类型为varchar(20)<br>ALTER TABLE emp ADD nickname varchar(20) COMMENT′昵称&quot;;<br></code></pre></td></tr></table></figure>
-
-<p>修改数据类型</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER TABLE 表名 MODIFY 字段名 新数据类型(长度);<br></code></pre></td></tr></table></figure>
-
-<p>修改字段名和字段类型</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER TABLE 表名 CHANGE 旧字段名 新字段名 类型(长度) [COMMENT &#x27;注释&#x27;] [约束];<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mysql">例子:将emp表的nickname字段修改为username，类型为varchar(30)<br><br>ALTER TABLE emp CHANGE nickname username varchar(30) COMMENT&#x27;昵称&#x27;;<br></code></pre></td></tr></table></figure>
-
-<p>修改表名</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER TABLE 表名 RENAME TO 新表名;<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mysql">例子：将emp表的表名修改为employee<br><br>ALTER TABLE emp RENAME TO employee;<br></code></pre></td></tr></table></figure>
-
-<h3 id="DDL—表操作—删除"><a href="#DDL—表操作—删除" class="headerlink" title="DDL—表操作—删除"></a>DDL—表操作—删除</h3><p>删除表</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">DROP TABLE [IF EXISTS] 表名;<br></code></pre></td></tr></table></figure>
-
-<p>删除指定表，并重新创建表(表数据没了，表结构还在)</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">TRUNCATE TABLE 表名;<br></code></pre></td></tr></table></figure>
-
+              <h1 id="爱是什么？中英文版本"><a href="#爱是什么？中英文版本" class="headerlink" title="爱是什么？中英文版本"></a>爱是什么？中英文版本</h1><p>爱是什么？</p>
+<p>What is love?</p>
+<p>爱是爱心，爱是美好的语言，爱是无私的奉献，爱会带给你无限的温暖，爱会带给你健康和快乐……</p>
+<p>Love is love, love is a beautiful language, love is selfless dedication, love will bring you infinite warmth, love will bring you health and happiness. ……</p>
+<p>爱像春天的微风，吹动我们的心弦；爱就像心中的火焰，炽热又温暖。</p>
+<p>Love is like the spring breeze, blowing our heartstrings; Love is like the flame in the heart, hot and warm.</p>
+<p>爱是一物降一物，爱是甘拜下风，爱是雨中的一把伞，爱是讲不完的心事，说不尽的话。爱是念念不忘，爱是相互包容吗，爱是吵不散场，爱是不变质的水，爱是心甘情愿，爱是无缝衔接，爱是全身爱退。</p>
+<p>Love has its vanquisher. Love is willing to bow down to the wind. Love is an umbrella in the rain. Love is endless worries and endless words. Is love unforgettable, is love tolerant of each other? Love is noisy, love is unchangeable water, love is willing, love is seamless, and love is full of love.</p>
+<p>我不知道什么是爱，但是一定不是流不完的眼泪，不是傍晚的失眠。</p>
+<p>I don’t know what love is, but it must not be endless tears or insomnia in the evening.</p>
+<p>爱的定义太广泛了，我在雾中站了好久，我不明白什么是爱，没有什么爱不爱，爱会奋不顾身去拥抱你，爱不会在意他人的眼光，我不奢求爱，也不渴望爱。爱会在合适的时机出现，爱有真假，爱可以装出来。</p>
+<p>The definition of love is too broad. I have been standing in the fog for a long time. I don’t know what love is, and there is nothing I don’t love. Love will give up my life to hug you. Love doesn’t care about other people’s eyes, and I don’t expect or desire love. Love will appear at the right time, love is true or false, and love can be faked.</p>
+<p>爱不会是简简单单，爱是动词，爱是形容词，爱是来形容我们，爱是相互牵挂，爱是互相猜忌，爱是动名词的代表，爱即使明白结果也要追随，爱是信任，爱是依靠，爱是永不后悔。</p>
+<p>Love is not simple, love is a verb, love is an adjective, love is used to describe us, love is mutual concern, love is mutual suspicion, love is the representative of gerunds, love should follow even if it knows the result, love is trust, love is dependence, and love is never regret.</p>
+<p>爱可以简简单单，但不能随随便便。爱是前人栽树后人乘凉。是勇敢者的游戏，一路仁至义尽，暗号是你听得到的心甘情愿，慈悲放过你，没放过你自己，雪地里写诗，是看不见的，蕴藏在心底里，没有定义。</p>
+<p>Love can be simple, but not casual. Love is when predecessors plant trees and later generations enjoy the cool. It’s a game of the brave. All the way, I show my utmost forbearance. The secret code is your willingness to hear. I will spare you with compassion and myself. Writing poetry in the snow is invisible, hidden in my heart and undefined.</p>
+<p>被爱的前提不应该是漂亮，优秀，可以是任何人。</p>
+<p>The premise of being loved should not be beautiful, excellent, but anyone.</p>
+<p>爱是本能，教不会，也强求不来。  </p>
+<p>Love is instinct, which can’t be taught or forced.   </p>
 
               
             </div>
@@ -381,7 +335,7 @@
     
       <span class="category-chain">
         
-  <a href="/categories/MySQL/" class="category-chain-item">MySQL</a>
+  <a href="/categories/%E6%96%87%E5%AD%A6/" class="category-chain-item">文学</a>
   
   
 
@@ -396,7 +350,9 @@
     <div class="post-meta">
       <i class="iconfont icon-tags"></i>
       
-        <a href="/tags/MySQL/">#MySQL</a>
+        <a href="/tags/%E6%96%87%E5%AD%A6/">#文学</a>
+      
+        <a href="/tags/%E7%88%B1%E6%83%85/">#爱情</a>
       
     </div>
   
@@ -408,8 +364,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>MySQLのDDL相关</div>
-      <div>http://www.itmua.tk/2022/05/27/MySQLのDDL相关/</div>
+      <div>爱是什么？（中英文版本）</div>
+      <div>http://www.itmua.tk/2022/05/27/爱是什么？中英文版本/</div>
     </div>
     <div class="license-meta">
       
@@ -427,7 +383,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>更新于</div>
-          <div>2022年5月27日</div>
+          <div>2022年5月29日</div>
         </div>
       
       <div class="license-meta-item">
@@ -462,21 +418,15 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2022/05/27/MySQL%E3%81%AEDQL%E7%9B%B8%E5%85%B3/" title="MySQLのDQL相关">
+                      <a href="/2022/05/27/%E7%88%B1%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%AD%E6%97%A5%E6%96%87%E7%89%88%E6%9C%AC/" title="爱是什么？（中日文版本）">
                         <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">MySQLのDQL相关</span>
+                        <span class="hidden-mobile">爱是什么？（中日文版本）</span>
                         <span class="visible-mobile">上一篇</span>
                       </a>
                     
                   </article>
                   <article class="post-next col-6">
                     
-                    
-                      <a href="/2022/05/27/MySQL%E3%81%AEDCL%E7%9B%B8%E5%85%B3/" title="MySQLのDCL相关">
-                        <span class="hidden-mobile">MySQLのDCL相关</span>
-                        <span class="visible-mobile">下一篇</span>
-                        <i class="iconfont icon-arrowright"></i>
-                      </a>
                     
                   </article>
                 </div>
