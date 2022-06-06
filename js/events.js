@@ -150,9 +150,9 @@ Fluid.events = {
     // eslint-disable-next-line no-console
     console.log(`
 -----------------------------------------------------------------
-|	GitHub：https://github.com/fanxing9420	|
-|	                 ------沐沐欢迎你------		|
-|	           博客网：www.fanxingw.cn		|
+|GitHub：https://github.com/fanxing9420
+|------沐沐欢迎你------		
+|博客网：www.fanxingw.cn		
 -----------------------------------------------------------------
 
    `);
