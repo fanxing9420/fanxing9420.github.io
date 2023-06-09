@@ -4,6 +4,64 @@
   
   
   <entry>
+    <title>js中常量的使用</title>
+    <link href="/2023/06/09/js%E4%B8%AD%E7%9A%84%E5%B8%B8%E9%87%8F/"/>
+    <url>/2023/06/09/js%E4%B8%AD%E7%9A%84%E5%B8%B8%E9%87%8F/</url>
+    
+    <content type="html"><![CDATA[<h1 id="js中常量的基本使用"><a href="#js中常量的基本使用" class="headerlink" title="js中常量的基本使用"></a>js中常量的基本使用</h1><h3 id="概念"><a href="#概念" class="headerlink" title="概念:"></a>概念:</h3><p>使用const声明的变量称为“常量”。</p><h3 id="使用场景"><a href="#使用场景" class="headerlink" title="使用场景:"></a>使用场景:</h3><p>当某个变量永远不会改变的时候，就可以使用const来声明，而不是let。</p><h3 id="命名规范"><a href="#命名规范" class="headerlink" title="命名规范:"></a>命名规范:</h3><p>和变量一致</p><p>相关文章：<a href="https://blog.itmua.cn/2023/05/31/js%E4%B8%AD%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E4%B8%8E%E8%B5%8B%E5%80%BC/#3-%E5%8F%98%E9%87%8F%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99%E4%B8%8E%E8%A7%84%E8%8C%83">js中变量与常量的命名规范</a></p><h3 id="常量使用"><a href="#常量使用" class="headerlink" title="常量使用:"></a>常量使用:</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-comment">//声明一个常量</span><br><span class="hljs-keyword">const</span> G = <span class="hljs-number">9.8</span><br><span class="hljs-comment">//输出这个常量</span><br><span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(G)<br></code></pre></td></tr></table></figure><h3 id="注意"><a href="#注意" class="headerlink" title="注意:"></a>注意:</h3><p>常量不允许重新赋值,声明的时候必须赋值（初始化)<br>小技巧:不需要重新赋值的数据使用const</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+      <category>JavaScript</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>前端</tag>
+      
+      <tag>JavaScript</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>js中变量的声明、赋值、命名规范</title>
+    <link href="/2023/06/09/js%E4%B8%AD%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E4%B8%8E%E8%B5%8B%E5%80%BC/"/>
+    <url>/2023/06/09/js%E4%B8%AD%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E4%B8%8E%E8%B5%8B%E5%80%BC/</url>
+    
+    <content type="html"><![CDATA[<h1 id="js中变量的声明、赋值、命名规范"><a href="#js中变量的声明、赋值、命名规范" class="headerlink" title="js中变量的声明、赋值、命名规范"></a>js中变量的声明、赋值、命名规范</h1><h3 id="首先-理解变量是计算机存储数据的“容器”"><a href="#首先-理解变量是计算机存储数据的“容器”" class="headerlink" title="首先:理解变量是计算机存储数据的“容器”"></a>首先:理解变量是计算机存储数据的“容器”</h3><h3 id="1-变量"><a href="#1-变量" class="headerlink" title="1.变量:"></a>1.变量:</h3><p>​白话:变量就是一个装东西的盒子。<br>​通俗:变量是计算机中用来存储数据的“容器”，它可以让计算机变得有记忆。</p><p>​<strong>注意:变量不是数据本身，它们仅仅是一个用于存储数值的容器。可以理解为是一个个用来装东西的纸箱子</strong>。</p><h3 id="2-变量的本质"><a href="#2-变量的本质" class="headerlink" title="2.变量的本质"></a>2.变量的本质</h3><p>​内存:计算机中存储数据的地方，相当于一个空间<br>​变量本质:是程序在内存中申请的一块用来存放数据的小空间<br>​</p><h3 id="3-变量命名规则与规范"><a href="#3-变量命名规则与规范" class="headerlink" title="3.变量命名规则与规范"></a>3.变量命名规则与规范</h3><p>​<strong>规则：能写出符合规范的变量名规则:必须遵守，不遵守报错（法律层面)</strong><br>​<strong>规范:建议，不遵守不会报错，但不符合业内通识（道德层面)</strong></p><h4 id="1-规则"><a href="#1-规则" class="headerlink" title="1.规则:"></a>1.规则:</h4><p>​不能用关键字<br>​关键字∶有特殊含义的字符，JavaScript 内置的一些英语词汇。例如: let、var、if、for等只能用下划线、字母、数字、$组成，且数字不能开头<br>​字母严格区分大小写，如Age和age是不同的变量</p><h4 id="2-规范"><a href="#2-规范" class="headerlink" title="2.规范:"></a>2.规范:</h4><p>​起名要有意义遵守小驼峰命名法<br>​第一个单词首字母小写，后面每个单词首字母大写。例: userName</p><h3 id="4-声明变量"><a href="#4-声明变量" class="headerlink" title="4.声明变量:"></a>4.声明变量:</h3><p>​要想使用变量，首先需要创建变量（也称为声明变量或者定义变量)<br>​语法:<br>​let 变量名<br>​声明变量有两部分构成:声明关键字、变量名（标识)<br>​let即关键字(let:允许、许可、让、要)，所谓关键字是系统提供的专门用来声明（定义）变量的词语<br>​举例:<br>​let age</p><p>以下是举例对比：</p><table><thead><tr><th align="center">变量名</th><th align="center">是否报错</th><th align="center">是否符合规范</th></tr></thead><tbody><tr><td align="center">21age</td><td align="center">报错</td><td align="center"></td></tr><tr><td align="center">_age</td><td align="center">不报错</td><td align="center">符合规范</td></tr><tr><td align="center">user-name</td><td align="center">报错</td><td align="center"></td></tr><tr><td align="center">username</td><td align="center">不报错</td><td align="center">不符合规范</td></tr><tr><td align="center">userName</td><td align="center">不报错</td><td align="center">符合规范</td></tr><tr><td align="center">let</td><td align="center">报错</td><td align="center"></td></tr><tr><td align="center">na@me</td><td align="center">报错</td><td align="center"></td></tr><tr><td align="center">$age</td><td align="center">不报错</td><td align="center">符合规范</td></tr></tbody></table><h3 id="5-变量拓展-let和var的区别let和var区别"><a href="#5-变量拓展-let和var的区别let和var区别" class="headerlink" title="5.变量拓展-let和var的区别let和var区别:"></a>5.变量拓展-let和var的区别let和var区别:</h3><p>​在较旧的JavaScript，使用关键字var来声明变量，而不是 let。var现在开发中一般不再使用它，只是我们可能再老版程序中看到它。let为了解决var的一些问题。<br>​var声明:<br>​可以先使用在声明(不合理)<br>​var声明过的变量可以重复声明(不合理)<br>​比如变量提升、全局变量、没有块级作用域等等<br>​结论:<br>​理解为var就是个bug，别迷恋它，以后声明变量统一使用let</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+      <category>JavaScript</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>前端</tag>
+      
+      <tag>JavaScript</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>用Js写的一个简单计算器</title>
     <link href="/2023/06/09/js%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
     <url>/2023/06/09/js%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
