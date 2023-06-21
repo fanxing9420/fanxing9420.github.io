@@ -45,7 +45,7 @@
     <link href="https://blog.itmua.cn/2023/06/21/find_qq_ip/"/>
     <id>https://blog.itmua.cn/2023/06/21/find_qq_ip/</id>
     <published>2023-06-21T02:50:10.000Z</published>
-    <updated>2023-06-21T02:54:03.969Z</updated>
+    <updated>2023-06-21T03:37:48.880Z</updated>
     
     <content type="html"><![CDATA[<p>任意QQ号码IP地址快速查询教程</p><p>输入QQ号码即可查询到对方IP归属地，链接接口都是官方的。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>手机复制提供的接口</p><p>把接口末尾的数字更改为要查的QQ号</p><p>然后把修改后的链接发送给自己的小号或者是什么能发送消息的地方</p><p>直接点击访问即可跳转查询结果页面</p><p>接口：<a href="https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi://qcircle/openmainpage?from=homepage&sharecategory=1&shareentrance=2&uin=%E4%BD%A0%E8%A6%81%E6%9F%A5%E7%9A%84QQ%E5%8F%B7">https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi%3A//qcircle/openmainpage%3Ffrom%3Dhomepage%26sharecategory%3D1%26shareentrance%3D2%26uin%3D你要查的QQ号</a></p><p>示例：<a href="https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi://qcircle/openmainpage?from=homepage&sharecategory=1&shareentrance=2&uin=123456">https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi%3A//qcircle/openmainpage%3Ffrom%3Dhomepage%26sharecategory%3D1%26shareentrance%3D2%26uin%3D123456</a></p>]]></content>
     
