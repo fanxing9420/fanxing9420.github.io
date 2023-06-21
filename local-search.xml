@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>复制网页文字的方法</title>
+    <link href="/2023/06/21/nocopy/"/>
+    <url>/2023/06/21/nocopy/</url>
+    
+    <content type="html"><![CDATA[<h2 id="六种方法，解决网页禁止复制限制"><a href="#六种方法，解决网页禁止复制限制" class="headerlink" title="六种方法，解决网页禁止复制限制"></a>六种方法，解决网页禁止复制限制</h2><h3 id="一、浏览器扩展"><a href="#一、浏览器扩展" class="headerlink" title="一、浏览器扩展"></a>一、浏览器扩展</h3><p>利用脚本网页限制解除和扩展效果一样，油猴脚本的优势是<strong>更加轻量</strong>。可以解除禁止复制、选择文本、右键菜单的限制。</p><p>首先确保浏览器已经安装有脚本管理扩展，比如 Tampermonkey、Violentmonkey。没安装的前往官网安装下。</p><p>然后进入脚本地址，点击安装即可。</p><p>脚本大全地址：<a href="https://greasyfork.org/zh-CN">Greasy Fork - 安全、实用的用户脚本大全</a></p><h3 id="二、OCR-识别"><a href="#二、OCR-识别" class="headerlink" title="二、OCR 识别"></a>二、OCR 识别</h3><p>这个可以说是最终的、一定能行的方法了。截图，然后通过 OCR 在线识别。</p><p>推荐使用QQ&#x2F;微信自带的，免费还好用，也不需要再安装额外的软件了。</p><p>当然网上有很多网站，有的免费有字数次数的限制。</p><h3 id="三：打印输出"><a href="#三：打印输出" class="headerlink" title="三：打印输出"></a>三：打印输出</h3><p>快捷键 Ctrl + P，或者菜单 -&gt; 打印，在打印预览页面是没有复制限制的。</p><h3 id="四：将网页下载到本地"><a href="#四：将网页下载到本地" class="headerlink" title="四：将网页下载到本地"></a>四：将网页下载到本地</h3><p>这个方法比较简单粗暴，<strong>手机也可以使用</strong>。</p><p>电脑直接Ctrl+S就可以保存。</p><p>点击浏览器菜单，将网页下载到本地，再打开离线版页面，就可以直接复制了。</p><h3 id="五、开发者工具控制台"><a href="#五、开发者工具控制台" class="headerlink" title="五、开发者工具控制台"></a>五、开发者工具控制台</h3><p>在开发者工具控制台中输入如下代码</p><p>全选复制–&gt;打开开发者工具控制台–&gt;粘贴–&gt;-回车</p><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs routeros">document.<span class="hljs-attribute">oncopy</span>=function()&#123;<br>event.<span class="hljs-attribute">returnValue</span>=<span class="hljs-literal">true</span>;<br>&#125;;<br>document.<span class="hljs-attribute">onselectstart</span>=function()&#123;<br>event.<span class="hljs-attribute">returnValue</span>=<span class="hljs-literal">true</span>;<br>&#125;;<br>document.<span class="hljs-attribute">oncontextmenu</span>=function()&#123;<br>event.<span class="hljs-attribute">returnValue</span>=<span class="hljs-literal">true</span>;<br>&#125;;<br></code></pre></td></tr></table></figure><h3 id="六、阅读模式"><a href="#六、阅读模式" class="headerlink" title="六、阅读模式"></a>六、阅读模式</h3><p>沉浸阅读模式有的浏览器没有这个功能，有的可以直接右击网页打开这个模式</p><p>或者在网站地址前面加入：read:&#x2F;&#x2F;</p><p>网址显示效果如下所示：</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">read</span>://https_www.baidu.com/?url=https%<span class="hljs-number">3</span>A%<span class="hljs-number">2</span>F%<span class="hljs-number">2</span>Fwww.baidu.com%<span class="hljs-number">2</span>F<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技术教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>查询qq所在Ip属地</title>
+    <link href="/2023/06/21/find_qq_ip/"/>
+    <url>/2023/06/21/find_qq_ip/</url>
+    
+    <content type="html"><![CDATA[<p>任意QQ号码IP地址快速查询教程</p><p>输入QQ号码即可查询到对方IP归属地，链接接口都是官方的。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>手机复制提供的接口</p><p>把接口末尾的数字更改为要查的QQ号</p><p>然后把修改后的链接发送给自己的小号或者是什么能发送消息的地方</p><p>直接点击访问即可跳转查询结果页面</p><p>接口：<a href="https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi://qcircle/openmainpage?from=homepage&sharecategory=1&shareentrance=2&uin=%E4%BD%A0%E8%A6%81%E6%9F%A5%E7%9A%84QQ%E5%8F%B7">https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi%3A//qcircle/openmainpage%3Ffrom%3Dhomepage%26sharecategory%3D1%26shareentrance%3D2%26uin%3D你要查的QQ号</a></p><p>示例：<a href="https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi://qcircle/openmainpage?from=homepage&sharecategory=1&shareentrance=2&uin=123456">https://h5.qzone.qq.com/v2/wezone/jump?_wv=3&amp;_proxy=1&amp;schema=mqqapi%3A//qcircle/openmainpage%3Ffrom%3Dhomepage%26sharecategory%3D1%26shareentrance%3D2%26uin%3D123456</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技术教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>十年之约博客Feeds专题调用</title>
     <link href="/2023/06/18/foreverblog/"/>
     <url>/2023/06/18/foreverblog/</url>
