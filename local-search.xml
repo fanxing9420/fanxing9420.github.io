@@ -33,6 +33,35 @@
   
   
   <entry>
+    <title>linux安装python3</title>
+    <link href="/2023/06/28/linux%E5%AE%89%E8%A3%85python3/"/>
+    <url>/2023/06/28/linux%E5%AE%89%E8%A3%85python3/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Linux安装Python3"><a href="#Linux安装Python3" class="headerlink" title="Linux安装Python3"></a><strong>Linux安装Python3</strong></h1><p>1、安装wget</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">yum install wget gcc-c++ zlib zlib-devel -y<br></code></pre></td></tr></table></figure><p>2、下载python3，可以是其他python3版本</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">wget https://www.python.org/ftp/python/<span class="hljs-number">3.9</span><span class="hljs-number">.16</span>/Python-<span class="hljs-number">3.9</span><span class="hljs-number">.16</span>.tar.xz<br></code></pre></td></tr></table></figure><p>3、解压</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">tar xf Python-<span class="hljs-number">3.9</span><span class="hljs-number">.16</span>.tar.xz<br></code></pre></td></tr></table></figure><p>4、安装</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs python">cd Python-<span class="hljs-number">3.9</span><span class="hljs-number">.16</span><br>./configure --prefix=/usr/local/python3<br>make &amp;&amp; make install<br></code></pre></td></tr></table></figure><p>5、配置软链</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python">ln -s /usr/local/python3/<span class="hljs-built_in">bin</span>/python3 /usr/<span class="hljs-built_in">bin</span>/python3<br>ln -s /usr/local/python3/<span class="hljs-built_in">bin</span>/pip3 /usr/<span class="hljs-built_in">bin</span>/pip3<br></code></pre></td></tr></table></figure><p>6、验证python3</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs python">[root@localhost ~]<span class="hljs-comment"># python3</span><br>Python <span class="hljs-number">3.9</span><span class="hljs-number">.16</span> (main, Jan <span class="hljs-number">11</span> <span class="hljs-number">2023</span>, <span class="hljs-number">11</span>:<span class="hljs-number">13</span>:<span class="hljs-number">45</span>) <br>[GCC <span class="hljs-number">4.8</span><span class="hljs-number">.5</span> <span class="hljs-number">20150623</span> (Red Hat <span class="hljs-number">4.8</span><span class="hljs-number">.5</span>-<span class="hljs-number">44</span>)] on linux<br><span class="hljs-type">Type</span> <span class="hljs-string">&quot;help&quot;</span>, <span class="hljs-string">&quot;copyright&quot;</span>, <span class="hljs-string">&quot;credits&quot;</span> <span class="hljs-keyword">or</span> <span class="hljs-string">&quot;license&quot;</span> <span class="hljs-keyword">for</span> more information.<br><span class="hljs-meta">&gt;&gt;&gt; </span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>后端</category>
+      
+      <category>Python</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Linux</tag>
+      
+      <tag>Python</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>电影《阿根廷，1985》金句名言名句台词</title>
     <link href="/2023/06/28/%E9%98%BF%E6%A0%B9%E5%BB%B71985/"/>
     <url>/2023/06/28/%E9%98%BF%E6%A0%B9%E5%BB%B71985/</url>
