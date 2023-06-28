@@ -4,6 +4,93 @@
   
   
   <entry>
+    <title>Windows 11 22H2 OOBE 页面跳过联网功能步骤</title>
+    <link href="/2023/06/28/win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91/"/>
+    <url>/2023/06/28/win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91/</url>
+    
+    <content type="html"><![CDATA[<h2 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h2><h4 id="详细步骤如下："><a href="#详细步骤如下：" class="headerlink" title="详细步骤如下："></a>详细步骤如下：</h4><ol><li>机器进入OOBE系统释放页面后，按照系统提示到达OOBE 联网页面后，同时按下“Shift+F10”或“FN+Shift+F10”启动<br>  CMD窗口，之后，鼠标左键双击“CMD”窗口，输入“oobe\BypassNRO.cmd”,完成后，按下回车键，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005021704493.jpg" alt="img"></p><p>2.按下回车键后，系统会重新启动，如下图：</p><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005021908936.jpg" alt="img"></p><ol start="3"><li>系统重启后，会重新回到 OOBE 首页，此时依旧按照系统提示再次来到 OOBE 联网页面，点击页面右下角的“我没有Intelnet连接”<br>如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022011702.jpg" alt="img"></p><ol start="4"><li>在新的 OOBE页面中，点击页面右下角的“继续执行受限设置”，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022118964.jpg" alt="img"></p><ol start="5"><li>在OOBE 许可协议页面，点击“接受”，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022208264.jpg" alt="img"></p><ol start="6"><li>完成后，即可进入设置本地页面，按照 OOBE 流程输入用户名后，继续设置即可，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022255576.jpg" alt="img"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>操作系统</category>
+      
+      <category>Windows</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Windows</tag>
+      
+      <tag>操作系统</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>电影《阿根廷，1985》金句名言名句台词</title>
+    <link href="/2023/06/28/%E9%98%BF%E6%A0%B9%E5%BB%B71985/"/>
+    <url>/2023/06/28/%E9%98%BF%E6%A0%B9%E5%BB%B71985/</url>
+    
+    <content type="html"><![CDATA[<p>事情可能会出错，某人可能会分心，这时会有一个很窄的机会窗口出现，一条裂缝，就这样，它稍纵即逝。当它出现时你必须抓住，然后你就可以做一些事，那些在独裁时期无法做到的事情，胡里奥，重要的事情就是这样完成的，需要智慧、胆量、机智才能把事情做好。<br><em>Something can go wrong. Someone gets distracted, right? And there’s a gap, a thin one. A crack. That’s it. It opens and closes quickly. When it opens, you have to be in there, and then, yes… Then you can do something. The things we couldn’t do during the dictatorship, Julio. That’s how important things were done. They were done with intelligence, with boldness, with wit, to get in there.</em></p><p>真正要害人的人是不会提前警告你的。<br><em>The ones who harm don’t give warnings.</em></p><p>这一次，他们折磨他不是要套取任何情报，法官大人，这种持续数小时的折磨的唯一目的，就是为了让这个可怜的犯人亲口说“我给男人口交 我妈妈是个婊子”，他们折磨了他几个小时，逼他说这句话。<br><em>This time, they weren’t after any information, Your Honor. The only purpose of this torture that lasted for hours… was for this prisoner to say, “I eat dick and my mother is a bitch.” They tortured him for hours trying to make him say it.</em></p><p>怎么会有人这么残忍？这么残忍对待一名孕妇？连刚出生的孩子都不管不顾，说实话，这太可怕了，我从没想过，我会听到这么可怕的事情。<br><em>How can someone be so cruel? Being so cruel to a pregnant woman? Not even caring about a baby. Dreadful, honestly. Dreadful. I never thought I would hear something… so dreadful.</em></p><p>我以你为荣，你知道这意味着什么吗？我一直以为自己嫁的是一个… 脾气暴躁的无神论者，但现在你已经成了国家英雄。<br><em>I’m proud of you. You know what it is? I always thought I was married to… a grumpy non-believer, and now you’re a national hero.</em></p><p>法律是我痴迷的爱好，我不能让破坏它的人逍遥法外，斯特拉塞拉先生和我的目的，除了为受害者伸张正义，还有就是终结使用死亡作为政治工具的做法，这不是每个人都希望看到的吗？这是这个国家所需要的，尊重和正义。<br><em>Law is my obsession. I can’t allow those who break it to get away with it. What Mr. Strassera and I want, besides justice for the victims, is to end the use of death as a political tool. Isn’t that what everyone wants? This is about what the country needs. Respect and justice.</em></p><p>我用三个词就可以描述这些不齿行为，法官大人，“充满恶意、偷偷摸摸和懦弱无能”，游击队是犯了绑架和杀戮等罪行，那国家做了什么来对抗他们呢？规模无限大的绑架、折磨和杀戮，而且更糟糕的是很多这些行为都凌驾在法律之上。<br><em>To describe it, Your Honors, I only need three words. Vicious, clandestine and cowardly. The guerrillas kidnapped and killed. And what did the state do to fight them? Kidnap, torture and kill on an infinitely larger scale. And, what is even worse, outside of any legal system.</em></p><p>当正当程序被抛弃时，司法也就被某些人踩在脚下，官方报告被无端指控所取代，审问被折磨所取代，理性判决被类似尼禄拇指朝下的手势一样的“决杀令”所取代，在这个懦弱无能的体系，对阿根廷社会所造成的伤害中，有一个永远无法弥补。<br><em>When due process was eliminated, a true juridical subversion occurred. Official reports were replaced by accusations. Questioning, by torture. And sentence reasoned by the Neronian thumbs-down gesture. Among the many debts this coward system has incurred with the Argentinian society, there is one… which cannot be repaid.</em></p><p>丁阿利吉耶里在其著作《神曲》中，将地狱的第七层留给了施暴者，所有那些用武力伤害他人的人，在这同一个地狱里，施暴者会被浸没在沸腾的血河中，一种特定类型的劫数，作者用了如下描述，“这些都是杀人劫财的暴君，他们将在此为自己对他人的无情伤害感到悔恨”。<br><em>Dante Alighieri, in The Divine Comedy, saved the seventh circle of hell for the violent ones. For all of those who hurt others through the use of force. And in that same hell, he submerged in a river of boiling and nauseating blood, a specific type of doomed, which the poet described as follows, “Tyrants are these who dealt in bloodshed and pillaging. Here, they lament their pitiless mischiefs.”</em></p><p>我想要放弃采用自负的原创辞藻来结束本结案陈词，而是改为引用，一句不属于我的格言，因为它已经属于了全体阿根廷人民，法官大人，“决不让悲剧重演”。<br><em>I wish to waive any claim to originality in concluding this argument. I want to use… a quote that doesn’t belong to me, because it already belongs to the entire Argentinian people. Your Honors, “Never Again.”</em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>语言</category>
+      
+      <category>英语</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>英语</tag>
+      
+      <tag>追剧</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>电影《万世英雄El Cid》金句名句台词</title>
+    <link href="/2023/06/28/%E4%B8%87%E4%B8%96%E8%8B%B1%E9%9B%84/"/>
+    <url>/2023/06/28/%E4%B8%87%E4%B8%96%E8%8B%B1%E9%9B%84/</url>
+    
+    <content type="html"><![CDATA[<p>把你们的书烧掉，把你们的诗人训练成战士，叫你们的医生为我们的箭发明新的毒药，叫你们的科学家发明战争武器，接着就是…杀戮！烧掉一切。<br><em>Burn your books. Make warriors of your poets. Let your doctors invent new poisons for our arrows. Let your scientists invent new war machines. And then, kill! Burn.</em></p><p>你绝对不知道恋人是怎样计算时间的，晚一点就是快一点，傍晚就是中午呢，可是啊，一个人骑马究竟只能跑那么快… 不管他爱得有多深。<br><em>You don’t really understand how love keeps time. Later means sooner; sundown means noon. Still, a man on a horse can move only so fast… no matter how much the man is in love.</em></p><p>他们说恋爱中的女人…都是这样被折磨着，因为她们不相信这样的幸福…会真的降临在她们身上。<br><em>They say all women in love… are tormented that way. Because they don’t dare believe that such happiness… can really be theirs.</em></p><p>我要你爱我希梅娜，那比荣誉、荣耀、财富更重要，你明白那种爱。<br><em>I want your love, Chimene. More than I want honor, glory, wealth. You understand a love like that.</em></p><p>我们为你们带来和平！士兵与市民们！我们为你们带来自由！我们为你们带来生命！我们为你们带来…面包！我们为你们带来面包！面包！<br><em>We bring you peace! Soldiers and citizens! We bring you freedom! We bring you life! We bring you… bread! We bring you bread! Bread!</em></p><p>人终须一死，为何不为大义而死?<br><em>All men must die. Why not for a good cause?</em></p><p>人要征服自己是件不容易的事，你办到了。<br><em>It’s not easy for a man to conquer himself. You have done that.</em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>语言</category>
+      
+      <category>英语</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>英语</tag>
+      
+      <tag>追剧</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>疾速追杀1经典台词John Wick:Chapter1</title>
     <link href="/2023/06/26/%E7%96%BE%E9%80%9F%E8%BF%BD%E6%9D%801/"/>
     <url>/2023/06/26/%E7%96%BE%E9%80%9F%E8%BF%BD%E6%9D%801/</url>

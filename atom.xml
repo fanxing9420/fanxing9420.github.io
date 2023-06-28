@@ -6,7 +6,7 @@
   <link href="https://blog.itmua.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.itmua.cn/"/>
-  <updated>2023-06-26T07:32:06.924Z</updated>
+  <updated>2023-06-28T03:47:44.332Z</updated>
   <id>https://blog.itmua.cn/</id>
   
   <author>
@@ -15,6 +15,90 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows 11 22H2 OOBE 页面跳过联网功能步骤</title>
+    <link href="https://blog.itmua.cn/2023/06/28/win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91/"/>
+    <id>https://blog.itmua.cn/2023/06/28/win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91/</id>
+    <published>2023-06-28T03:44:32.000Z</published>
+    <updated>2023-06-28T03:47:44.332Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h2><h4 id="详细步骤如下："><a href="#详细步骤如下：" class="headerlink" title="详细步骤如下："></a>详细步骤如下：</h4><ol><li>机器进入OOBE系统释放页面后，按照系统提示到达OOBE 联网页面后，同时按下“Shift+F10”或“FN+Shift+F10”启动<br>  CMD窗口，之后，鼠标左键双击“CMD”窗口，输入“oobe\BypassNRO.cmd”,完成后，按下回车键，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005021704493.jpg" alt="img"></p><p>2.按下回车键后，系统会重新启动，如下图：</p><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005021908936.jpg" alt="img"></p><ol start="3"><li>系统重启后，会重新回到 OOBE 首页，此时依旧按照系统提示再次来到 OOBE 联网页面，点击页面右下角的“我没有Intelnet连接”<br>如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022011702.jpg" alt="img"></p><ol start="4"><li>在新的 OOBE页面中，点击页面右下角的“继续执行受限设置”，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022118964.jpg" alt="img"></p><ol start="5"><li>在OOBE 许可协议页面，点击“接受”，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022208264.jpg" alt="img"></p><ol start="6"><li>完成后，即可进入设置本地页面，按照 OOBE 流程输入用户名后，继续设置即可，如下图：</li></ol><p><img src="https://chinakb.lenovo.com.cn/_eWebEditor/uploadfile/20221005022255576.jpg" alt="img"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;操作步骤&quot;&gt;&lt;a href=&quot;#操作步骤&quot; class=&quot;headerlink&quot; title=&quot;操作步骤&quot;&gt;&lt;/a&gt;操作步骤&lt;/h2&gt;&lt;h4 id=&quot;详细步骤如下：&quot;&gt;&lt;a href=&quot;#详细步骤如下：&quot; class=&quot;headerlink&quot; title=&quot;详细步</summary>
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://blog.itmua.cn/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="Windows" scheme="https://blog.itmua.cn/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://blog.itmua.cn/tags/Windows/"/>
+    
+    <category term="操作系统" scheme="https://blog.itmua.cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影《阿根廷，1985》金句名言名句台词</title>
+    <link href="https://blog.itmua.cn/2023/06/28/%E9%98%BF%E6%A0%B9%E5%BB%B71985/"/>
+    <id>https://blog.itmua.cn/2023/06/28/%E9%98%BF%E6%A0%B9%E5%BB%B71985/</id>
+    <published>2023-06-28T03:02:55.000Z</published>
+    <updated>2023-06-28T03:04:43.289Z</updated>
+    
+    <content type="html"><![CDATA[<p>事情可能会出错，某人可能会分心，这时会有一个很窄的机会窗口出现，一条裂缝，就这样，它稍纵即逝。当它出现时你必须抓住，然后你就可以做一些事，那些在独裁时期无法做到的事情，胡里奥，重要的事情就是这样完成的，需要智慧、胆量、机智才能把事情做好。<br><em>Something can go wrong. Someone gets distracted, right? And there’s a gap, a thin one. A crack. That’s it. It opens and closes quickly. When it opens, you have to be in there, and then, yes… Then you can do something. The things we couldn’t do during the dictatorship, Julio. That’s how important things were done. They were done with intelligence, with boldness, with wit, to get in there.</em></p><p>真正要害人的人是不会提前警告你的。<br><em>The ones who harm don’t give warnings.</em></p><p>这一次，他们折磨他不是要套取任何情报，法官大人，这种持续数小时的折磨的唯一目的，就是为了让这个可怜的犯人亲口说“我给男人口交 我妈妈是个婊子”，他们折磨了他几个小时，逼他说这句话。<br><em>This time, they weren’t after any information, Your Honor. The only purpose of this torture that lasted for hours… was for this prisoner to say, “I eat dick and my mother is a bitch.” They tortured him for hours trying to make him say it.</em></p><p>怎么会有人这么残忍？这么残忍对待一名孕妇？连刚出生的孩子都不管不顾，说实话，这太可怕了，我从没想过，我会听到这么可怕的事情。<br><em>How can someone be so cruel? Being so cruel to a pregnant woman? Not even caring about a baby. Dreadful, honestly. Dreadful. I never thought I would hear something… so dreadful.</em></p><p>我以你为荣，你知道这意味着什么吗？我一直以为自己嫁的是一个… 脾气暴躁的无神论者，但现在你已经成了国家英雄。<br><em>I’m proud of you. You know what it is? I always thought I was married to… a grumpy non-believer, and now you’re a national hero.</em></p><p>法律是我痴迷的爱好，我不能让破坏它的人逍遥法外，斯特拉塞拉先生和我的目的，除了为受害者伸张正义，还有就是终结使用死亡作为政治工具的做法，这不是每个人都希望看到的吗？这是这个国家所需要的，尊重和正义。<br><em>Law is my obsession. I can’t allow those who break it to get away with it. What Mr. Strassera and I want, besides justice for the victims, is to end the use of death as a political tool. Isn’t that what everyone wants? This is about what the country needs. Respect and justice.</em></p><p>我用三个词就可以描述这些不齿行为，法官大人，“充满恶意、偷偷摸摸和懦弱无能”，游击队是犯了绑架和杀戮等罪行，那国家做了什么来对抗他们呢？规模无限大的绑架、折磨和杀戮，而且更糟糕的是很多这些行为都凌驾在法律之上。<br><em>To describe it, Your Honors, I only need three words. Vicious, clandestine and cowardly. The guerrillas kidnapped and killed. And what did the state do to fight them? Kidnap, torture and kill on an infinitely larger scale. And, what is even worse, outside of any legal system.</em></p><p>当正当程序被抛弃时，司法也就被某些人踩在脚下，官方报告被无端指控所取代，审问被折磨所取代，理性判决被类似尼禄拇指朝下的手势一样的“决杀令”所取代，在这个懦弱无能的体系，对阿根廷社会所造成的伤害中，有一个永远无法弥补。<br><em>When due process was eliminated, a true juridical subversion occurred. Official reports were replaced by accusations. Questioning, by torture. And sentence reasoned by the Neronian thumbs-down gesture. Among the many debts this coward system has incurred with the Argentinian society, there is one… which cannot be repaid.</em></p><p>丁阿利吉耶里在其著作《神曲》中，将地狱的第七层留给了施暴者，所有那些用武力伤害他人的人，在这同一个地狱里，施暴者会被浸没在沸腾的血河中，一种特定类型的劫数，作者用了如下描述，“这些都是杀人劫财的暴君，他们将在此为自己对他人的无情伤害感到悔恨”。<br><em>Dante Alighieri, in The Divine Comedy, saved the seventh circle of hell for the violent ones. For all of those who hurt others through the use of force. And in that same hell, he submerged in a river of boiling and nauseating blood, a specific type of doomed, which the poet described as follows, “Tyrants are these who dealt in bloodshed and pillaging. Here, they lament their pitiless mischiefs.”</em></p><p>我想要放弃采用自负的原创辞藻来结束本结案陈词，而是改为引用，一句不属于我的格言，因为它已经属于了全体阿根廷人民，法官大人，“决不让悲剧重演”。<br><em>I wish to waive any claim to originality in concluding this argument. I want to use… a quote that doesn’t belong to me, because it already belongs to the entire Argentinian people. Your Honors, “Never Again.”</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;事情可能会出错，某人可能会分心，这时会有一个很窄的机会窗口出现，一条裂缝，就这样，它稍纵即逝。当它出现时你必须抓住，然后你就可以做一些事，那些在独裁时期无法做到的事情，胡里奥，重要的事情就是这样完成的，需要智慧、胆量、机智才能把事情做好。&lt;br&gt;&lt;em&gt;Something </summary>
+      
+    
+    
+    
+    <category term="语言" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="英语" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="英语" scheme="https://blog.itmua.cn/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="追剧" scheme="https://blog.itmua.cn/tags/%E8%BF%BD%E5%89%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影《万世英雄El Cid》金句名句台词</title>
+    <link href="https://blog.itmua.cn/2023/06/28/%E4%B8%87%E4%B8%96%E8%8B%B1%E9%9B%84/"/>
+    <id>https://blog.itmua.cn/2023/06/28/%E4%B8%87%E4%B8%96%E8%8B%B1%E9%9B%84/</id>
+    <published>2023-06-28T02:58:23.000Z</published>
+    <updated>2023-06-28T03:03:07.917Z</updated>
+    
+    <content type="html"><![CDATA[<p>把你们的书烧掉，把你们的诗人训练成战士，叫你们的医生为我们的箭发明新的毒药，叫你们的科学家发明战争武器，接着就是…杀戮！烧掉一切。<br><em>Burn your books. Make warriors of your poets. Let your doctors invent new poisons for our arrows. Let your scientists invent new war machines. And then, kill! Burn.</em></p><p>你绝对不知道恋人是怎样计算时间的，晚一点就是快一点，傍晚就是中午呢，可是啊，一个人骑马究竟只能跑那么快… 不管他爱得有多深。<br><em>You don’t really understand how love keeps time. Later means sooner; sundown means noon. Still, a man on a horse can move only so fast… no matter how much the man is in love.</em></p><p>他们说恋爱中的女人…都是这样被折磨着，因为她们不相信这样的幸福…会真的降临在她们身上。<br><em>They say all women in love… are tormented that way. Because they don’t dare believe that such happiness… can really be theirs.</em></p><p>我要你爱我希梅娜，那比荣誉、荣耀、财富更重要，你明白那种爱。<br><em>I want your love, Chimene. More than I want honor, glory, wealth. You understand a love like that.</em></p><p>我们为你们带来和平！士兵与市民们！我们为你们带来自由！我们为你们带来生命！我们为你们带来…面包！我们为你们带来面包！面包！<br><em>We bring you peace! Soldiers and citizens! We bring you freedom! We bring you life! We bring you… bread! We bring you bread! Bread!</em></p><p>人终须一死，为何不为大义而死?<br><em>All men must die. Why not for a good cause?</em></p><p>人要征服自己是件不容易的事，你办到了。<br><em>It’s not easy for a man to conquer himself. You have done that.</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;把你们的书烧掉，把你们的诗人训练成战士，叫你们的医生为我们的箭发明新的毒药，叫你们的科学家发明战争武器，接着就是…杀戮！烧掉一切。&lt;br&gt;&lt;em&gt;Burn your books. Make warriors of your poets. Let your doctors i</summary>
+      
+    
+    
+    
+    <category term="语言" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="英语" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="英语" scheme="https://blog.itmua.cn/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="追剧" scheme="https://blog.itmua.cn/tags/%E8%BF%BD%E5%89%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>疾速追杀1经典台词John Wick:Chapter1</title>
@@ -480,92 +564,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;MySQL—函数&quot;&gt;&lt;a href=&quot;#MySQL—函数&quot; class=&quot;headerlink&quot; title=&quot;MySQL—函数&quot;&gt;&lt;/a&gt;MySQL—函数&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;函数是指一段可以直接被另一段程序调用的程序或代码。&lt;/strong&gt;&lt;/p&gt;</summary>
-      
-    
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/tags/MySQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL多表查询</title>
-    <link href="https://blog.itmua.cn/2023/05/31/MySQL%E2%80%94%E5%A4%9A%E8%A1%A8%E6%9F%A5%E8%AF%A2/"/>
-    <id>https://blog.itmua.cn/2023/05/31/MySQL%E2%80%94%E5%A4%9A%E8%A1%A8%E6%9F%A5%E8%AF%A2/</id>
-    <published>2023-05-31T07:15:05.000Z</published>
-    <updated>2023-05-31T08:28:48.198Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="MySQL—多表查询"><a href="#MySQL—多表查询" class="headerlink" title="MySQL—多表查询"></a>MySQL—多表查询</h1><h3 id="多表关系"><a href="#多表关系" class="headerlink" title="多表关系"></a>多表关系</h3><p>项目开发中，在进行数据库表结构设计时，会根据业务需求及业务模块之间的关系，分析并设计表结构，由于业务之间相互关联，所以各个表结构之间也存在着各种联系，基本上分为三种:<br>①一对多(多对一)</p><p>②多对多</p><p>③一对一</p><h5 id="1-一对多（多对一）"><a href="#1-一对多（多对一）" class="headerlink" title="1.一对多（多对一）"></a>1.一对多（多对一）</h5><p>​案例:部门与员工的关系</p><p>​关系:一个部门对应多个员工，一个员工对应一个部门<br>​实现:<strong>在多的一方建立外键，指向一的一方的主键</strong></p><h5 id="2-多对多"><a href="#2-多对多" class="headerlink" title="2.多对多"></a>2.多对多</h5><p>​案例:学生与课程的关系<br>​关系:一个学生可以选修多门课程，一门课程也可以供多个学生选择</p><p>​实现:<strong>建立第三张中间表，中间表至少包含两个外键，分别关联两方主键</strong></p><h5 id="3-一对一"><a href="#3-一对一" class="headerlink" title="3.一对一"></a>3.一对一</h5><p>案例:用户与用户详情的关系<br>关系:一对一关系，多用于单表拆分，将一张表的基础字段放在一张表中，其他详情字段放在另一张表中，以提升操作效率</p><p>实现:<strong>在任意一方加入外键，关联另外一方的主键，并且设置外键为唯一的(UNIQUE)</strong></p><h3 id="多表查询—概述"><a href="#多表查询—概述" class="headerlink" title="多表查询—概述"></a>多表查询—概述</h3><p>1.概述:指从多张表中查询数据<br>2.笛卡尔积:笛卡尔乘积是指在数学中，两个集合A集合和B集合的所有组合情况。(<strong>在多表查询时，需要消除无效的笛卡尔积</strong>)</p><h3 id="多表查询—分类"><a href="#多表查询—分类" class="headerlink" title="多表查询—分类"></a>多表查询—分类</h3><p><strong>连接查询</strong><br>    <strong>内连接</strong>:相当于查询A、B交集部分数据<br>    <strong>外连接:</strong><br>                左外连接:查询  <u>左表</u>  所有数据，以及两张表交集部分数据<br>                右外连接:查询  <u>右表</u>  所有数据，以及两张表交集部分数据<br>    <strong>自连接</strong>:当前表与自身的连接查询，自连接必须使用表别名</p><p><strong>子查询</strong></p><h2 id="多表查询—子查询"><a href="#多表查询—子查询" class="headerlink" title="多表查询—子查询"></a>多表查询—子查询</h2><h3 id="子查询"><a href="#子查询" class="headerlink" title="子查询"></a>子查询</h3><p>概念:SQL语句中嵌套SELECT语句，称为嵌套查询，又称子查询。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT * FROM t1  WHERE column1=(SELECT column1 FROM t2)；<br></code></pre></td></tr></table></figure><p>子查询外部的语句可以是INSERT&#x2F; UPDATE&#x2F; DELETE&#x2F; SELECT的任何一个。<br><strong>根据子查询结果不同，分为:</strong></p><p>​1.标量子查询（子查询结果为单个值)</p><p>​2.列子查询(子查询结果为一列)<br>​3.行子查询(子查询结果为一行)</p><p>​4.表子查询(子查询结果为多行多列)</p><h3 id="标量子查询"><a href="#标量子查询" class="headerlink" title="标量子查询"></a>标量子查询</h3><p>子查询返回的结果是单个值（数字、字符串、日期等），最简单的形式，这种子查询称为<strong>标量子查询</strong>。</p><p>常用的操作符: &#x3D;&lt;&gt;&gt;&#x3D;&lt; &lt;&#x3D;    &gt;</p><p><strong>例子：</strong></p><p>–标量子查询</p><p>–1．查询”销售部”的所有员工信息</p><p>​– a．查询”销售部”部门ID</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select id from dept where name =&quot;销售部&#x27;;<br></code></pre></td></tr></table></figure><p>​–b.根据销售部部门ID，查询员工信息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select * from emp where dept_id = (select id from dept where name = ‘销售部&#x27;);<br></code></pre></td></tr></table></figure><h3 id="列子查询"><a href="#列子查询" class="headerlink" title="列子查询"></a>列子查询</h3><p>子查询返回的结果是一列（可以是多行)，这种子查询称为<strong>列子查询</strong>。<br>常用的操作符:IN 、NOT IN 、ANY 、SOME、ALL</p><table><thead><tr><th align="center">操作符</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center">IN</td><td align="center">在指定的集合范围之内，多选一</td></tr><tr><td align="center">NOT IN</td><td align="center">不在指定的集合范围之内</td></tr><tr><td align="center">ANY</td><td align="center">子查询返回列表中，有任意一个满足即可</td></tr><tr><td align="center">SOME</td><td align="center">与ANY等同，使用SOME的地方都可以使用ANY</td></tr><tr><td align="center">ALL</td><td align="center">子查询返回列表的所有值都必须满足</td></tr></tbody></table><h3 id="行子查询"><a href="#行子查询" class="headerlink" title="行子查询"></a>行子查询</h3><p>子查询返回的结果是一行（可以是多列)，这种子查询称为<strong>行子查询。</strong><br>常用的操作符:    &#x3D;   、 &lt;&gt;  、  IN  、  NOT IN</p><p><strong>例子：</strong></p><p>–1.查询与“张无忌”的薪资及直属领导相同的员工信息;</p><p>​–a.查询“张无忌”的薪资及直属领导</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select salary,managerid from emp where name = &#x27;张无忌&quot;;<br></code></pre></td></tr></table></figure><p>​–b.查询与“张无忌“的薪资及直属领导相同的员工信息;</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select * from emp where (salary ,managerid) = (select salary，managerid from emp where name = &#x27;张无忌&#x27;);<br></code></pre></td></tr></table></figure><h3 id="表子查询"><a href="#表子查询" class="headerlink" title="表子查询"></a>表子查询</h3><p>子查询返回的结果是多行多列，这种子查询称为<strong>表子查询。</strong></p><p>常用操作符：IN </p><p> <strong>例子：</strong></p><p>– 1.查询与”鹿杖客”，“宋远桥”的职位和薪资相同的员工信息。</p><p>​–a.查询“鹿杖客”，“宋远桥”的职位和薪资</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select job,salary from emp where name = &#x27;鹿杖客&#x27; or name = &#x27;宋远桥&#x27;;<br></code></pre></td></tr></table></figure><p>​–b.查询与”鹿杖客”，“宋远桥”的职位和薪资相同的员工信息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select * from emp where (job, salary) in ( select job,salary from emp where name =&#x27;鹿杖客&#x27;or name =&#x27;宋远桥&#x27;);<br></code></pre></td></tr></table></figure><p>– 2.查询入职日期是“2006-01-01”之后的员工信息，及其部门信息<br>        –a.入职日期是”2006-01-01”之后的员工信息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select * from enp where entrydate &gt; &#x27;2006-01-01&#x27;;<br></code></pre></td></tr></table></figure><p>​–b.查询这部分员工，对应的部门信息;</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">select e.*,d.* from (select * from emp where entrydate &gt; &#x27;2006-01-01&#x27;) e left join dept d on e.dept_id = d.id ;<br></code></pre></td></tr></table></figure><h2 id="多表查询—内连接外连接自链接"><a href="#多表查询—内连接外连接自链接" class="headerlink" title="多表查询—内连接外连接自链接"></a>多表查询—内连接外连接自链接</h2><h3 id="连接查询—内连接"><a href="#连接查询—内连接" class="headerlink" title="连接查询—内连接"></a>连接查询—内连接</h3><h5 id="内连接查询语法："><a href="#内连接查询语法：" class="headerlink" title="内连接查询语法："></a>内连接查询语法：</h5><p>隐式内连接</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表1，表2 WHERE 条件...；<br></code></pre></td></tr></table></figure><p>显式内连接</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表1 [INNER] JOIN 表2 ON 连接条件...；<br></code></pre></td></tr></table></figure><p><strong>注意</strong>：</p><p>​<strong>内连接查询的是两张表交集的部分</strong></p><h3 id="连接查询—外连接"><a href="#连接查询—外连接" class="headerlink" title="连接查询—外连接"></a>连接查询—外连接</h3><h5 id="外连接查询语法："><a href="#外连接查询语法：" class="headerlink" title="外连接查询语法："></a>外连接查询语法：</h5><p>左外连接</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM  表1 LEFT [OUTER] JOIN 表2 ON 条件...；<br></code></pre></td></tr></table></figure><p><strong>相当于查询表1(左表)的所有数据包含表1和表2交集部分的数据</strong></p><p>右外连接</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM  表1 RIGHT [OUTER] JOIN 表2 ON 条件...；<br></code></pre></td></tr></table></figure><p><strong>相当于查询表2(右表)的所有数据包含表1和表2交集部分的数据</strong></p><h3 id="连接查询—自链接"><a href="#连接查询—自链接" class="headerlink" title="连接查询—自链接"></a>连接查询—自链接</h3><h5 id="自连接查询语法"><a href="#自连接查询语法" class="headerlink" title="自连接查询语法"></a>自连接查询语法</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表A 别名A JOIN 表A 别名B ON 条件...；<br></code></pre></td></tr></table></figure><p><strong>自连接查询，可以是内连接查询，也可以是外连接查询。</strong></p><h3 id="联合查询—union，union-all"><a href="#联合查询—union，union-all" class="headerlink" title="联合查询—union，union all"></a>联合查询—union，union all</h3><p>对于union查询，就是把多次查询的结果合并起来，形成一个新的查询结果集。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表A ...<br><br>UNION [ALL]<br><br>SELECT 字段列表 FROM 表B...；<br></code></pre></td></tr></table></figure><p><strong>注意：</strong></p><p>1.对于联合查询的多张表的列数必须保持一致，字段类型也需要保持一致。<br>2.union all会将全部的数据直接合并在一起，union会对合并之后的数据去重。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;MySQL—多表查询&quot;&gt;&lt;a href=&quot;#MySQL—多表查询&quot; class=&quot;headerlink&quot; title=&quot;MySQL—多表查询&quot;&gt;&lt;/a&gt;MySQL—多表查询&lt;/h1&gt;&lt;h3 id=&quot;多表关系&quot;&gt;&lt;a href=&quot;#多表关系&quot; class=&quot;head</summary>
-      
-    
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/tags/MySQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL基础之DQL介绍</title>
-    <link href="https://blog.itmua.cn/2023/05/31/MySQL%E3%81%AEDQL/"/>
-    <id>https://blog.itmua.cn/2023/05/31/MySQL%E3%81%AEDQL/</id>
-    <published>2023-05-31T07:15:05.000Z</published>
-    <updated>2023-05-31T08:27:45.655Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="DQL—介绍"><a href="#DQL—介绍" class="headerlink" title="DQL—介绍"></a>DQL—介绍</h1><p><strong>DQL英文全称是Data Query Language(数据查询语言)，数据查询语言，用来查询数据库中表的记录。</strong></p><p><strong>查询关键字:SELECT</strong></p><p>1.基本查询</p><p>2.条件查询(WHERE)</p><p>3.聚合函数(count、max、min、avg.sum)</p><p>4.分组查询(GROUP BY)</p><p>5.排序查询（ORDER BY)</p><p>6.分页查询(LIMIT)</p><h2 id="DQL—语法"><a href="#DQL—语法" class="headerlink" title="DQL—语法"></a>DQL—语法</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT<br>字段列表<br>FROM<br>表名列表<br>WHERE<br>条件列表<br>GROUP BY<br>分组字段列表<br>HAVING<br>分组后条件列表<br>ORDER BY<br>排序字段列表<br>LIMIT<br>分页参数<br></code></pre></td></tr></table></figure><h2 id="DQL—基本查询"><a href="#DQL—基本查询" class="headerlink" title="DQL—基本查询"></a>DQL—基本查询</h2><p>1.查询多个字段</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段1，字段2，字段3...FROM 表名；<br><br>SELECT * FROM 表名；<br></code></pre></td></tr></table></figure><p>2.设置别名</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段1[AS 别名]，字段2 [AS 别名2]... FROM 表名；<br></code></pre></td></tr></table></figure><p>3.去除重复记录</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT DISTINCT 字段列表 FROM 表名；<br></code></pre></td></tr></table></figure><h2 id="DQL—条件查询"><a href="#DQL—条件查询" class="headerlink" title="DQL—条件查询"></a>DQL—条件查询</h2><p>1.语法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表名 WHERE 条件列表；<br></code></pre></td></tr></table></figure><table><thead><tr><th align="center">比较运算符</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">&gt;</td><td align="center">大于</td></tr><tr><td align="center">&gt;&#x3D;</td><td align="center">大于等于</td></tr><tr><td align="center">&lt;</td><td align="center">小于</td></tr><tr><td align="center">&lt;&#x3D;</td><td align="center">小于等于</td></tr><tr><td align="center">&#x3D;</td><td align="center">等于</td></tr><tr><td align="center">&lt;&gt;或!&#x3D;</td><td align="center">不等于</td></tr><tr><td align="center">BETWEEN…AND…</td><td align="center">在某个范围之内(含最小值，最大值)</td></tr><tr><td align="center">IN(…)</td><td align="center">在in之后的列表中的值，多选一</td></tr><tr><td align="center">LIKE 占位符</td><td align="center">模糊匹配(_匹配单个字符，%匹配任意个字符)</td></tr><tr><td align="center">IS NULL</td><td align="center">是NULL</td></tr></tbody></table><table><thead><tr><th align="center">逻辑运算符</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">AND 或 &amp;&amp;</td><td align="center">并且(多个条件同时成立)</td></tr><tr><td align="center">OR 或 ||</td><td align="center">或者(多个条件任意一个成立)</td></tr><tr><td align="center">NOT 或 ！</td><td align="center">非，不是</td></tr></tbody></table><h2 id="DQL—聚合函数"><a href="#DQL—聚合函数" class="headerlink" title="DQL—聚合函数"></a>DQL—聚合函数</h2><p>1.介绍</p><p>将一列数据作为一个整体，进行纵向计算。</p><p>2.常见聚合函数</p><table><thead><tr><th>函数</th><th>功能</th></tr></thead><tbody><tr><td>count</td><td>统计数量</td></tr><tr><td>max</td><td>最大值</td></tr><tr><td>min</td><td>最小值</td></tr><tr><td>avg</td><td>平均值</td></tr><tr><td>sum</td><td>求和</td></tr></tbody></table><p>3.语法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 聚合函数(字段列表) FROM 表名;<br></code></pre></td></tr></table></figure><h2 id="DQL—分组查询"><a href="#DQL—分组查询" class="headerlink" title="DQL—分组查询"></a>DQL—分组查询</h2><p>1.语法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM  表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING 分组后过滤条件];<br></code></pre></td></tr></table></figure><p>2.where与having区别</p><p>执行时机不同: where是分组之前进行过滤，不满足where条件，不参与分组;而having是分组之后对结果进行过滤。</p><p>判断条件不同: where不能对聚合函数进行判断，而having可以。</p><h5 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h5><p>·执行顺序: where &gt;聚合函数&gt;having 。</p><p>·分组之后，查询的字段一般为聚合函数和分组字段，查询其他字段无任何意义。</p><h2 id="DQL—排序查询"><a href="#DQL—排序查询" class="headerlink" title="DQL—排序查询"></a>DQL—排序查询</h2><p>1.语法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表名 ORDER BY 字段1 排序方式1，字段2 排序方式2；<br></code></pre></td></tr></table></figure><p>2.排序方式</p><p>ASC:升序（默认值)</p><p>DESC:降序</p><h5 id="注意-1"><a href="#注意-1" class="headerlink" title="注意:"></a>注意:</h5><p>如果是多字段排序，当第一个字段值相同时，才会根据第二个字段进行排序。</p><h2 id="DQL—分页查询"><a href="#DQL—分页查询" class="headerlink" title="DQL—分页查询"></a>DQL—分页查询</h2><p>1.语法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT 字段列表 FROM 表名 LIMIT 起始索引，查询记录数；<br></code></pre></td></tr></table></figure><h5 id="注意-2"><a href="#注意-2" class="headerlink" title="注意"></a>注意</h5><p>·起始索引从0开始，起始索引&#x3D;(查询页码-1)·每页显示记录数。</p><p>·分页查询是数据库的方言，不同的数据库有不同的实现，MySQL中是LIMIT。</p><p>·如果查询的是第一页数据，起始索引可以省略，直接简写为limit 10。</p><h2 id="DQL—执行顺序"><a href="#DQL—执行顺序" class="headerlink" title="DQL—执行顺序"></a>DQL—执行顺序</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs mysql">FROM<br>表名列表<br>WHERE<br>条件列表<br>GROUP BY<br>分组字段列表<br>HAVING<br>分组后条件列表<br>SELECT<br>字段列表<br>ORDER BY<br>排序字段列表<br>LIMIT<br>分页参数<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;DQL—介绍&quot;&gt;&lt;a href=&quot;#DQL—介绍&quot; class=&quot;headerlink&quot; title=&quot;DQL—介绍&quot;&gt;&lt;/a&gt;DQL—介绍&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;DQL英文全称是Data Query Language(数据查询语言)，数据查询语言，用来查</summary>
-      
-    
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/tags/MySQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL基础之DML介绍</title>
-    <link href="https://blog.itmua.cn/2023/05/31/MySQL%E3%81%AEDML/"/>
-    <id>https://blog.itmua.cn/2023/05/31/MySQL%E3%81%AEDML/</id>
-    <published>2023-05-31T07:14:05.000Z</published>
-    <updated>2023-05-31T08:28:31.532Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="DML—介绍"><a href="#DML—介绍" class="headerlink" title="DML—介绍"></a>DML—介绍</h1><p>添加数据（INSERT)</p><p>修改数据（UPDATE)</p><p>删除数据（DELETE)</p><h2 id="DML—添加数据"><a href="#DML—添加数据" class="headerlink" title="DML—添加数据"></a>DML—添加数据</h2><p><strong>注意：</strong></p><p><strong>·插入数据时，指定的字段顺序需要与值的顺序是一一对应的。</strong></p><p><strong>·字符串和日期型数据应该包含在引号中。</strong></p><p><strong>·插入的数据大小，应该在字段的规定范围内。</strong></p><p>1.给指定字段添加数据</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">INSERT INTO 表名 (字段名1，字段名2，...)  VALUES(值1，值2，...);<br></code></pre></td></tr></table></figure><p>2.给全部字段添加数据</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">INSERT INTO 表名 VALUES(值1，值2，...) ;<br></code></pre></td></tr></table></figure><p>3.批量添加数据</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mysql">INSERT INTO 表名 (字段名1，字段名2，...) VALUES(值1,值2，...),（值1,值2，...);<br><br>INSERT INTO表名 VALUES(值1，值2，...),(值1，值2，...),(值1，值2，...);<br></code></pre></td></tr></table></figure><h2 id="DML—修改数据"><a href="#DML—修改数据" class="headerlink" title="DML—修改数据"></a>DML—修改数据</h2><p><strong>注意:修改语句的条件可以有，也可以没有，如果没有条件，则会修改整张表的所有数据。</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">UPDATA 表名 SET 字段名1=值1,字段名2=值2,...[WHERE 条件];<br></code></pre></td></tr></table></figure><h2 id="DML—删除数据"><a href="#DML—删除数据" class="headerlink" title="DML—删除数据"></a>DML—删除数据</h2><p><strong>注意：</strong></p><p><strong>.DELETE语句的条件可以有，也可以没有，如果没有条件，则会删除整张表的所有数据。</strong></p><p><strong>. DELETE语句不能删除某一个字段的值(可以使用UPDATE)。</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">DELETE FROM 表名 [WHERE 条件];<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;DML—介绍&quot;&gt;&lt;a href=&quot;#DML—介绍&quot; class=&quot;headerlink&quot; title=&quot;DML—介绍&quot;&gt;&lt;/a&gt;DML—介绍&lt;/h1&gt;&lt;p&gt;添加数据（INSERT)&lt;/p&gt;
-&lt;p&gt;修改数据（UPDATE)&lt;/p&gt;
-&lt;p&gt;删除数据（DELETE)&lt;/</summary>
       
     
     
