@@ -6,7 +6,7 @@
   <link href="https://blog.itmua.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.itmua.cn/"/>
-  <updated>2023-06-28T03:47:44.332Z</updated>
+  <updated>2023-07-12T11:57:13.406Z</updated>
   <id>https://blog.itmua.cn/</id>
   
   <author>
@@ -15,6 +15,93 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一行代码“黑”掉网站</title>
+    <link href="https://blog.itmua.cn/2023/07/12/%E9%BB%91%E6%8E%89%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.itmua.cn/2023/07/12/%E9%BB%91%E6%8E%89%E7%BD%91%E7%AB%99/</id>
+    <published>2023-07-12T11:49:14.000Z</published>
+    <updated>2023-07-12T11:57:13.406Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><p>1.点击键盘上的F12，弹出开发者工具后点击console</p><p>2.在控制台输入下面代码，然后回车</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-variable language_">document</span>.<span class="hljs-property">documentElement</span>.<span class="hljs-property">style</span>.<span class="hljs-property">filter</span>=<span class="hljs-string">&#x27;invert(85%) hue-rotate(180deg)&#x27;</span><br></code></pre></td></tr></table></figure><p><img src="https://i.imgtg.com/2023/07/12/Oznj2l.png" alt="Oznj2l.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;操作方法&quot;&gt;&lt;a href=&quot;#操作方法&quot; class=&quot;headerlink&quot; title=&quot;操作方法&quot;&gt;&lt;/a&gt;操作方法&lt;/h3&gt;&lt;p&gt;1.点击键盘上的F12，弹出开发者工具后点击console&lt;/p&gt;
+&lt;p&gt;2.在控制台输入下面代码，然后回车&lt;/p&gt;
+&lt;fi</summary>
+      
+    
+    
+    
+    <category term="前端" scheme="https://blog.itmua.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="JavaScript" scheme="https://blog.itmua.cn/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+    
+    <category term="JavaScript" scheme="https://blog.itmua.cn/tags/JavaScript/"/>
+    
+    <category term="技术教程" scheme="https://blog.itmua.cn/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影《勒阿弗尔》台词经典名句</title>
+    <link href="https://blog.itmua.cn/2023/07/12/%E5%8B%92%E9%98%BF%E5%BC%97%E5%B0%94/"/>
+    <id>https://blog.itmua.cn/2023/07/12/%E5%8B%92%E9%98%BF%E5%BC%97%E5%B0%94/</id>
+    <published>2023-07-12T11:46:16.000Z</published>
+    <updated>2023-07-12T11:47:19.168Z</updated>
+    
+    <content type="html"><![CDATA[<p>钱都是在暗中流动的。<br><em>Money moves in the shadows.</em></p><p>相比起我们法国人… 外国人眼中的流浪汉啊总是显得更加浪漫。<br><em>Foreigners see bums in a considerably more romantic light than we French.</em></p><p>奇迹还是会有的。<br><em>Miracles do happen.</em></p><p>车到山前必有路。<br><em>The jar returns to the well until it breaks.</em></p><p>两个年轻人互相爱慕不是很好的事吗？为什么要由这个社会来判断什么是对，什么是错？<br><em>Isn’t it wonderful that two young people love each other? Why should the society dictate what’s right or wrong?</em></p><p>我这份工作不好的一面就是，人们不喜欢我们，人们嚷嚷着要我们帮忙，但他们有感激之情吗?一点都没有，但我真的不介意，我也不喜欢你们。<br><em>The dark side of my work is that people don’t like us. People scream for us to help. But are they grateful? Not a bit. It doesn’t really bother me. I don’t much like people.</em></p><p>似乎很难让你相信… 我的心也有软弱的地方，我对真正的罪人冷酷无情，但我不想见到无辜的人受苦。<br><em>It may be hard to believe that my heart has its tender spots. I’m ruthless towards genuine malefactors but I don’t like to see the innocent suffer.</em></p><p>看，马塞尔，樱花开了。<br><em>Look, Marcel. The cherry tree blooms.</em></p><p>♪ 我们朝着远去的乘客们歌唱 ♪<br>♪ 大人们仍旧醒着 母亲们在准备床铺 ♪<br>♪ 我们必须快点 ♪<br>♪ 我吻了旁边的人 ♪<br>♪ 拉了拉最近的三个人的手 ♪<br>♪ 开始回头沿着路奔跑 没人叫住我 ♪<br>♪ 当他们再也看不到我 ♪<br>♪ 我转而跑向农场的路 ♪<br>♪ 再次跑进森林里 ♪<br>♪ 我跑向镇子的南边 我们说 ♪<br>♪ “那里住了奇怪的人! 他们不睡觉的!” ♪<br>♪ “为什么不睡?” ♪<br>♪ “因为他们感觉不到疲惫” ♪<br>♪ “因为他们是疯子” ♪<br>♪ “疯子就不会感到累吗?” ♪<br>♪ “疯子怎么会累呢?” ♪<br><em>♪ We sang into the ears of the distant passengers. ♪<br>♪ Grown-ups were still a wake,mothers prepared beds. ♪<br>♪ We had to hurry. ♪<br>♪ I kissed the one next to me, ♪<br>♪ offered my hand to the nearest three. ♪<br>♪ I began to run back along the road,no one called after me. ♪<br>♪ When they could see me no more ♪<br>♪ I turned and ran along the farm roads, into the forest again. ♪<br>♪ I went south towards the town of which we said: ♪<br>♪ “Strange people live there!They don’t sleep! “ ♪<br>♪ “Why not?” ♪<br>♪ “They don’t grow tired. “ ♪<br>♪ “为什么?” ♪<br>♪ “Why not?” ♪<br>♪ “Because they are mad.” ♪<br>♪ “Don’t mad people grow tired?” ♪<br>♪ “How could the mad grow tired?” ♪</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;钱都是在暗中流动的。&lt;br&gt;&lt;em&gt;Money moves in the shadows.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;相比起我们法国人… 外国人眼中的流浪汉啊总是显得更加浪漫。&lt;br&gt;&lt;em&gt;Foreigners see bums in a considerably more</summary>
+      
+    
+    
+    
+    <category term="语言" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="英语" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="英语" scheme="https://blog.itmua.cn/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="追剧" scheme="https://blog.itmua.cn/tags/%E8%BF%BD%E5%89%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影《血色将至》经典台词句子名句</title>
+    <link href="https://blog.itmua.cn/2023/07/12/%E8%A1%80%E8%89%B2%E5%B0%86%E8%87%B3/"/>
+    <id>https://blog.itmua.cn/2023/07/12/%E8%A1%80%E8%89%B2%E5%B0%86%E8%87%B3/</id>
+    <published>2023-07-12T11:43:20.000Z</published>
+    <updated>2023-07-12T11:44:39.846Z</updated>
+    
+    <content type="html"><![CDATA[<p>我印象中在这个伟大的国家里，任何男人…女人或是小孩子 如果把一块面包当作奢侈品，将是多么的可悲。<br><em>Now, to my mind, it’s an abomination to consider that any man, should haveto look upon a loaf of bread as a luxury.</em></p><p>我心中已经没有那些东西了，投入工作的热情，遭受挫折的懊恼，那些失败的往昔都已离我远去… 我已经不在乎了。<br><em>That part of me is gone. Working and not succeeding, all my failures have left me… I just don’t care.</em></p><p>有很多次我看着别人，找不到半点中意的地方，我想挣足够多的钞票，多到足以远离俗世的烦扰。<br><em>There are times when I look at people… and I see nothing worth liking. I want to earn enough money I can… get away from everyone.</em></p><p>我能看到人性最丑陋的那一面，负面印象太多，甚至无需刻意回想，经过长年日积月累，我的恨意越蓄越深。你来之后在我的生活中又打开了一扇崭新的窗，我不能再独自一个人战斗了，和这些人…抗争。<br><em>I see the worst in people, Henry. I don’t need to look past… seeing them to get all I need. I’ve built up my hatreds over the years, little by little. Having you here gives me a second breath of life. I can’t keep doing this on my own with these people.</em></p><p>你是装在篮子里的孤儿是我从沙漠中捡来的… 收养你不为别的，只为买地时，身边有张俏脸蛋诓人容易些。<br><em>You’re an orphan from a basket… in the middle of the desert. And I took you for no other reason… than I needed a sweet face to buy land.</em></p><p>伊莱，其实你只是你兄弟出生时顺带落出的那个胎盘，从你母亲产后的秽物中滑落出来，他们应该把你装在玻璃瓶里，搁置在壁炉架上。<br><em>You’re just the afterbirth, Eli. That slithered out on your mother’s filth. They should’ve put you in a glass jar on the mantelpiece.</em></p><p>如果你有一杯奶昔，我也有一杯奶昔… 我还有一根吸管，在那儿，那是一根吸管看到没？看好了，我的吸管穿过房间… 然后开始喝你的奶昔，我在喝你的奶昔! 我把它喝光了!<br><em>If you have a milkshake and I have a milkshake, and I have a straw, there it is. That’s the straw, you see? Watch it. Now my straw reaches across the room and starts to drink your milkshake. I drink your milkshake! I drink it up!</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我印象中在这个伟大的国家里，任何男人…女人或是小孩子 如果把一块面包当作奢侈品，将是多么的可悲。&lt;br&gt;&lt;em&gt;Now, to my mind, it’s an abomination to consider that any man, should haveto look</summary>
+      
+    
+    
+    
+    <category term="语言" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="英语" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="英语" scheme="https://blog.itmua.cn/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="追剧" scheme="https://blog.itmua.cn/tags/%E8%BF%BD%E5%89%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows 11 22H2 OOBE 页面跳过联网功能步骤</title>
@@ -493,89 +580,6 @@
     <category term="前端" scheme="https://blog.itmua.cn/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="JavaScript" scheme="https://blog.itmua.cn/tags/JavaScript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>韩语</title>
-    <link href="https://blog.itmua.cn/2023/06/03/%E9%9F%A9%E8%AF%AD%E5%AD%A6%E4%B9%A0-1/"/>
-    <id>https://blog.itmua.cn/2023/06/03/%E9%9F%A9%E8%AF%AD%E5%AD%A6%E4%B9%A0-1/</id>
-    <published>2023-06-03T13:11:56.000Z</published>
-    <updated>2023-06-03T14:00:32.880Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="누나（怒那）"><a href="#누나（怒那）" class="headerlink" title="누나（怒那）"></a>누나（怒那）</h3><p>姐姐，男性用语，是男生对比自己大的女生时的称呼。</p><h3 id="넌-바보-아니야-（NO爬包啊你亚）"><a href="#넌-바보-아니야-（NO爬包啊你亚）" class="headerlink" title="넌 바보 아니야 （NO爬包啊你亚）"></a><strong>넌 바보 아니야</strong> （<strong>NO爬包啊你亚</strong>）</h3><p>你是不是傻瓜？</p><p>阿尼亚：（对朋友或比你辈分小的人）。</p><p>阿尼野哟： （陌生人或者知道但不熟悉的人）。</p><p>阿尼米达： （上司或辈份比你高的）。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;누나（怒那）&quot;&gt;&lt;a href=&quot;#누나（怒那）&quot; class=&quot;headerlink&quot; title=&quot;누나（怒那）&quot;&gt;&lt;/a&gt;누나（怒那）&lt;/h3&gt;&lt;p&gt;姐姐，男性用语，是男生对比自己大的女生时的称呼。&lt;/p&gt;
-&lt;h3 id=&quot;넌-바보-아니야-（NO爬包啊你亚</summary>
-      
-    
-    
-    
-    <category term="语言" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="韩语" scheme="https://blog.itmua.cn/categories/%E8%AF%AD%E8%A8%80/%E9%9F%A9%E8%AF%AD/"/>
-    
-    
-    <category term="韩语" scheme="https://blog.itmua.cn/tags/%E9%9F%A9%E8%AF%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL约束</title>
-    <link href="https://blog.itmua.cn/2023/05/31/MySQL%E2%80%94%E7%BA%A6%E6%9D%9F/"/>
-    <id>https://blog.itmua.cn/2023/05/31/MySQL%E2%80%94%E7%BA%A6%E6%9D%9F/</id>
-    <published>2023-05-31T07:26:05.000Z</published>
-    <updated>2023-05-31T08:30:56.517Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="MySQL—约束"><a href="#MySQL—约束" class="headerlink" title="MySQL—约束"></a>MySQL—约束</h1><h3 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h3><p>1.概念:约束是作用于表中字段上的规则，用于限制存储在表中的数据。</p><p>2.目的:保证数据库中数据的正确、有效性和完整性。</p><p>3.分类:</p><table><thead><tr><th>约束</th><th>描述</th><th>关键字</th></tr></thead><tbody><tr><td>非空约束</td><td>限制字段的数据不能为null</td><td>NOT NULL</td></tr><tr><td>唯一约束</td><td>保证该字段的所有数据都是唯一，不重复的</td><td>UNIQUE</td></tr><tr><td>主键约束</td><td>主键是一行数据的唯一标识，要求非空且唯一</td><td>PRIMARY KEY</td></tr><tr><td>默认约束</td><td>保存数据时，如果未指定该字段的值，则采用默认值</td><td>DEFAULT</td></tr><tr><td>检查约束</td><td>保证字段值满足某一条件</td><td>CHECK</td></tr><tr><td>外键约束</td><td>用来让两张表的数据之间建立连接，保证数据的一致性和完整性</td><td>FOREIGN KEY</td></tr></tbody></table><p><strong>注意:约束是作用于表中字段上的，可以在创建表&#x2F;修改表的时候添加约束。</strong></p><h3 id="约束演示"><a href="#约束演示" class="headerlink" title="约束演示"></a>约束演示</h3><p>例子:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs mysql">create table user(<br>    id int primary key auto_increment comment  &#x27;主键&#x27;,<br>    name varchar(10) not null unique  comment &#x27;姓名&#x27;,<br>    age int check (age&gt;0 &amp;&amp; age &lt;=120) comment &#x27;年龄&#x27;,<br>    status char(1) default &#x27;1&#x27; comment  &#x27;状态&#x27;,<br>    gender char(1) comment  &#x27;性别&#x27;<br>) comment &#x27;用户表&#x27;;<br></code></pre></td></tr></table></figure><h3 id="外键约束"><a href="#外键约束" class="headerlink" title="外键约束"></a>外键约束</h3><h5 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h5><p>​<strong>外键用来让两张表的数据之间建立连接，从而保证数据的一致性和完整性。</strong></p><h5 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h5><p>1.添加外键 </p><p>①</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs mysql">CREATE TABLE 表名(<br><br>字段名 数据类型<br><br>...<br><br>[CONSTRAINT][外键名称]FOREIGN KEY(外键字段名) REFERENCES 主表(主表列名)<br><br>);<br></code></pre></td></tr></table></figure><p>②</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER TABLE 表名 ADD CONSTRAINT 外键名称 FOREIGN KEY(外键字段名) REFERENCES 主表(主表列名);<br></code></pre></td></tr></table></figure><p>2.删除外键</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER TABLE 表名 DROP FOREIGN KEY 外键名称；<br></code></pre></td></tr></table></figure><h5 id="删除-x2F-更新行为"><a href="#删除-x2F-更新行为" class="headerlink" title="删除&#x2F;更新行为"></a>删除&#x2F;更新行为</h5><table><thead><tr><th align="center">行为</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center">NO ACTION</td><td align="center">当在父表中删除&#x2F;更新对应记录时，首先检查该记录是否有对应外键，如果有则不允许删除&#x2F;更新。(与RESTRICT一致)</td></tr><tr><td align="center">RESTRICT</td><td align="center">当在父表中删除&#x2F;更新对应记录时，首先检查该记录是否有对应外键，如果有则不允许删除&#x2F;更新。(与NOACTION一致)</td></tr><tr><td align="center">CASCADE</td><td align="center">当在父表中删除&#x2F;更新对应记录时，首先检查该记录是否有对应外键，如果有，则也删除&#x2F;更新外键在子表中的记录。</td></tr><tr><td align="center">SET NULL</td><td align="center">当在父表中删除对应记录时，首先检查该记录是否有对应外键，如果有则设置子表中该外键值为nul(这就要求该外键允许取null）。</td></tr><tr><td align="center">SET DEFAULT</td><td align="center">父表有变更时，子表将外键列设置成一个默认的值(Innodb不支持)</td></tr></tbody></table><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ALTER 表名 ADD CONSTRAINT 外键名称 FOREIGN KEY (外键字段) REFERENCES 主表名(主表字段名) ON UPDATE  删除/更新行为 ON DELETE 删除/更新行为;<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;MySQL—约束&quot;&gt;&lt;a href=&quot;#MySQL—约束&quot; class=&quot;headerlink&quot; title=&quot;MySQL—约束&quot;&gt;&lt;/a&gt;MySQL—约束&lt;/h1&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; titl</summary>
-      
-    
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/tags/MySQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL事务</title>
-    <link href="https://blog.itmua.cn/2023/05/31/MySQL%E2%80%94%E4%BA%8B%E5%8A%A1/"/>
-    <id>https://blog.itmua.cn/2023/05/31/MySQL%E2%80%94%E4%BA%8B%E5%8A%A1/</id>
-    <published>2023-05-31T07:19:05.000Z</published>
-    <updated>2023-05-31T08:30:24.769Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="MySQL—事务"><a href="#MySQL—事务" class="headerlink" title="MySQL—事务"></a>MySQL—事务</h1><h3 id="事务简介"><a href="#事务简介" class="headerlink" title="事务简介"></a>事务简介</h3><p><strong>事务</strong>是一组操作的集合，它是一个不可分割的工作单位，事务会把所有的操作作为一个整体一起向系统提交或撤销操作请求，即这些操作<strong>要么同时成功，要么同时失败</strong>。</p><h3 id="事务操作"><a href="#事务操作" class="headerlink" title="事务操作"></a>事务操作</h3><p>1.查看&#x2F;设置事务提交方式</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT @@autocommit;<br><br>SET @@autocommit=0;  1代表开启自动提交  0代表关闭自动提交（开启手动提交）<br></code></pre></td></tr></table></figure><p>2.提交事务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">COMMIT;<br></code></pre></td></tr></table></figure><p>3.回滚事务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">ROLLBACK;<br></code></pre></td></tr></table></figure><p>4.开启事务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">START TRANSACTION 或 BEGIN<br></code></pre></td></tr></table></figure><h3 id="事务四大特性"><a href="#事务四大特性" class="headerlink" title="事务四大特性"></a>事务四大特性</h3><p>1.原子性（Atomicity):事务是不可分割的最小操作单元，要么全部成功，要么全部失败。</p><p>2.一致性（Consistency) ︰事务完成时，必须使所有的数据都保持一致状态。</p><p>3.隔离性（isolation)∶数据库系统提供的隔离机制，保证事务在不受外部并发操作影响的独立环境下运行。</p><p>4.持久性（Durability):事务一旦提交或回滚，它对数据库中的数据的改变就是永久的。</p><h3 id="并发事务问题"><a href="#并发事务问题" class="headerlink" title="并发事务问题"></a>并发事务问题</h3><table><thead><tr><th align="center">问题</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center">脏读</td><td align="center">一个事务读到另外一个事务还没有提交的数据</td></tr><tr><td align="center">不可重复读</td><td align="center">一个事务先后读取同一条记录，但两次读取的数据不同，称之为不可重复读。</td></tr><tr><td align="center">幻读</td><td align="center">一个事务按照条件查询数据时，没有对应的数据行，但是在插入数据时，又发现这行数据已经存在，好像出现了”幻影“</td></tr></tbody></table><h3 id="事务隔离级别"><a href="#事务隔离级别" class="headerlink" title="事务隔离级别"></a>事务隔离级别</h3><table><thead><tr><th align="center">隔离级别</th><th align="center">脏读</th><th align="center">不可重复读</th><th align="center">幻读</th></tr></thead><tbody><tr><td align="center">Read uncommitted</td><td align="center">√</td><td align="center">√</td><td align="center">√</td></tr><tr><td align="center">Read committed</td><td align="center">×</td><td align="center">√</td><td align="center">√</td></tr><tr><td align="center">Repeatable Read(默认)</td><td align="center">×</td><td align="center">×</td><td align="center">√</td></tr><tr><td align="center">Serializable</td><td align="center">×</td><td align="center">×</td><td align="center">×</td></tr></tbody></table><h5 id="查看事务隔离级别"><a href="#查看事务隔离级别" class="headerlink" title="查看事务隔离级别"></a>查看事务隔离级别</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SELECT @@TRANSACTION_ISOLATION;<br></code></pre></td></tr></table></figure><h5 id="设置事务隔离级别"><a href="#设置事务隔离级别" class="headerlink" title="设置事务隔离级别"></a>设置事务隔离级别</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mysql">SET [SESSION | GLOBAL] TRANSACTION ISOLATION  LEVEL &#123; READ UNCOMMITTED | READ COMMITTED | REPEATABLE READ | SERIALIZABLE&#125;<br></code></pre></td></tr></table></figure><p><strong>注意:事务隔离级别越高，数据越安全，但是性能越低。</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;MySQL—事务&quot;&gt;&lt;a href=&quot;#MySQL—事务&quot; class=&quot;headerlink&quot; title=&quot;MySQL—事务&quot;&gt;&lt;/a&gt;MySQL—事务&lt;/h1&gt;&lt;h3 id=&quot;事务简介&quot;&gt;&lt;a href=&quot;#事务简介&quot; class=&quot;headerlink&quot; </summary>
-      
-    
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
-    
-    
-    <category term="数据库" scheme="https://blog.itmua.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="MySQL" scheme="https://blog.itmua.cn/tags/MySQL/"/>
     
   </entry>
   

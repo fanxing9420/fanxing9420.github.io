@@ -4,6 +4,93 @@
   
   
   <entry>
+    <title>一行代码“黑”掉网站</title>
+    <link href="/2023/07/12/%E9%BB%91%E6%8E%89%E7%BD%91%E7%AB%99/"/>
+    <url>/2023/07/12/%E9%BB%91%E6%8E%89%E7%BD%91%E7%AB%99/</url>
+    
+    <content type="html"><![CDATA[<h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><p>1.点击键盘上的F12，弹出开发者工具后点击console</p><p>2.在控制台输入下面代码，然后回车</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-variable language_">document</span>.<span class="hljs-property">documentElement</span>.<span class="hljs-property">style</span>.<span class="hljs-property">filter</span>=<span class="hljs-string">&#x27;invert(85%) hue-rotate(180deg)&#x27;</span><br></code></pre></td></tr></table></figure><p><img src="https://i.imgtg.com/2023/07/12/Oznj2l.png" alt="Oznj2l.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+      <category>JavaScript</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>JavaScript</tag>
+      
+      <tag>技术教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>电影《勒阿弗尔》台词经典名句</title>
+    <link href="/2023/07/12/%E5%8B%92%E9%98%BF%E5%BC%97%E5%B0%94/"/>
+    <url>/2023/07/12/%E5%8B%92%E9%98%BF%E5%BC%97%E5%B0%94/</url>
+    
+    <content type="html"><![CDATA[<p>钱都是在暗中流动的。<br><em>Money moves in the shadows.</em></p><p>相比起我们法国人… 外国人眼中的流浪汉啊总是显得更加浪漫。<br><em>Foreigners see bums in a considerably more romantic light than we French.</em></p><p>奇迹还是会有的。<br><em>Miracles do happen.</em></p><p>车到山前必有路。<br><em>The jar returns to the well until it breaks.</em></p><p>两个年轻人互相爱慕不是很好的事吗？为什么要由这个社会来判断什么是对，什么是错？<br><em>Isn’t it wonderful that two young people love each other? Why should the society dictate what’s right or wrong?</em></p><p>我这份工作不好的一面就是，人们不喜欢我们，人们嚷嚷着要我们帮忙，但他们有感激之情吗?一点都没有，但我真的不介意，我也不喜欢你们。<br><em>The dark side of my work is that people don’t like us. People scream for us to help. But are they grateful? Not a bit. It doesn’t really bother me. I don’t much like people.</em></p><p>似乎很难让你相信… 我的心也有软弱的地方，我对真正的罪人冷酷无情，但我不想见到无辜的人受苦。<br><em>It may be hard to believe that my heart has its tender spots. I’m ruthless towards genuine malefactors but I don’t like to see the innocent suffer.</em></p><p>看，马塞尔，樱花开了。<br><em>Look, Marcel. The cherry tree blooms.</em></p><p>♪ 我们朝着远去的乘客们歌唱 ♪<br>♪ 大人们仍旧醒着 母亲们在准备床铺 ♪<br>♪ 我们必须快点 ♪<br>♪ 我吻了旁边的人 ♪<br>♪ 拉了拉最近的三个人的手 ♪<br>♪ 开始回头沿着路奔跑 没人叫住我 ♪<br>♪ 当他们再也看不到我 ♪<br>♪ 我转而跑向农场的路 ♪<br>♪ 再次跑进森林里 ♪<br>♪ 我跑向镇子的南边 我们说 ♪<br>♪ “那里住了奇怪的人! 他们不睡觉的!” ♪<br>♪ “为什么不睡?” ♪<br>♪ “因为他们感觉不到疲惫” ♪<br>♪ “因为他们是疯子” ♪<br>♪ “疯子就不会感到累吗?” ♪<br>♪ “疯子怎么会累呢?” ♪<br><em>♪ We sang into the ears of the distant passengers. ♪<br>♪ Grown-ups were still a wake,mothers prepared beds. ♪<br>♪ We had to hurry. ♪<br>♪ I kissed the one next to me, ♪<br>♪ offered my hand to the nearest three. ♪<br>♪ I began to run back along the road,no one called after me. ♪<br>♪ When they could see me no more ♪<br>♪ I turned and ran along the farm roads, into the forest again. ♪<br>♪ I went south towards the town of which we said: ♪<br>♪ “Strange people live there!They don’t sleep! “ ♪<br>♪ “Why not?” ♪<br>♪ “They don’t grow tired. “ ♪<br>♪ “为什么?” ♪<br>♪ “Why not?” ♪<br>♪ “Because they are mad.” ♪<br>♪ “Don’t mad people grow tired?” ♪<br>♪ “How could the mad grow tired?” ♪</em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>语言</category>
+      
+      <category>英语</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>英语</tag>
+      
+      <tag>追剧</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>电影《血色将至》经典台词句子名句</title>
+    <link href="/2023/07/12/%E8%A1%80%E8%89%B2%E5%B0%86%E8%87%B3/"/>
+    <url>/2023/07/12/%E8%A1%80%E8%89%B2%E5%B0%86%E8%87%B3/</url>
+    
+    <content type="html"><![CDATA[<p>我印象中在这个伟大的国家里，任何男人…女人或是小孩子 如果把一块面包当作奢侈品，将是多么的可悲。<br><em>Now, to my mind, it’s an abomination to consider that any man, should haveto look upon a loaf of bread as a luxury.</em></p><p>我心中已经没有那些东西了，投入工作的热情，遭受挫折的懊恼，那些失败的往昔都已离我远去… 我已经不在乎了。<br><em>That part of me is gone. Working and not succeeding, all my failures have left me… I just don’t care.</em></p><p>有很多次我看着别人，找不到半点中意的地方，我想挣足够多的钞票，多到足以远离俗世的烦扰。<br><em>There are times when I look at people… and I see nothing worth liking. I want to earn enough money I can… get away from everyone.</em></p><p>我能看到人性最丑陋的那一面，负面印象太多，甚至无需刻意回想，经过长年日积月累，我的恨意越蓄越深。你来之后在我的生活中又打开了一扇崭新的窗，我不能再独自一个人战斗了，和这些人…抗争。<br><em>I see the worst in people, Henry. I don’t need to look past… seeing them to get all I need. I’ve built up my hatreds over the years, little by little. Having you here gives me a second breath of life. I can’t keep doing this on my own with these people.</em></p><p>你是装在篮子里的孤儿是我从沙漠中捡来的… 收养你不为别的，只为买地时，身边有张俏脸蛋诓人容易些。<br><em>You’re an orphan from a basket… in the middle of the desert. And I took you for no other reason… than I needed a sweet face to buy land.</em></p><p>伊莱，其实你只是你兄弟出生时顺带落出的那个胎盘，从你母亲产后的秽物中滑落出来，他们应该把你装在玻璃瓶里，搁置在壁炉架上。<br><em>You’re just the afterbirth, Eli. That slithered out on your mother’s filth. They should’ve put you in a glass jar on the mantelpiece.</em></p><p>如果你有一杯奶昔，我也有一杯奶昔… 我还有一根吸管，在那儿，那是一根吸管看到没？看好了，我的吸管穿过房间… 然后开始喝你的奶昔，我在喝你的奶昔! 我把它喝光了!<br><em>If you have a milkshake and I have a milkshake, and I have a straw, there it is. That’s the straw, you see? Watch it. Now my straw reaches across the room and starts to drink your milkshake. I drink your milkshake! I drink it up!</em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>语言</category>
+      
+      <category>英语</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>英语</tag>
+      
+      <tag>追剧</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Windows 11 22H2 OOBE 页面跳过联网功能步骤</title>
     <link href="/2023/06/28/win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91/"/>
     <url>/2023/06/28/win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91/</url>
