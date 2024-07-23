@@ -8,7 +8,7 @@
     <link href="/2023/10/02/%E5%AE%89%E5%8D%93%E6%94%B9%E6%88%98%E5%8C%BA/"/>
     <url>/2023/10/02/%E5%AE%89%E5%8D%93%E6%94%B9%E6%88%98%E5%8C%BA/</url>
     
-    <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?bvid=BV1w34y1T7C1&page=1" scrolling="no" border="0" height="500" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?bvid=BV1w34y1T7C1&page=1" scrolling="no" border="0" height="500" weight="800" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     
     
     <categories>
@@ -1145,6 +1145,8 @@
       
       <category>文学</category>
       
+      <category>文案</category>
+      
     </categories>
     
     
@@ -1168,14 +1170,16 @@
     
     <categories>
       
-      <category>爱情</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>爱情</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1193,14 +1197,16 @@
     
     <categories>
       
-      <category>爱情</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>爱情</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1218,14 +1224,16 @@
     
     <categories>
       
-      <category>人文</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>爱情</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1243,14 +1251,16 @@
     
     <categories>
       
-      <category>人生</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>人生</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1268,16 +1278,16 @@
     
     <categories>
       
-      <category>爱情</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>爱情</tag>
-      
-      <tag>恋爱</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1295,14 +1305,16 @@
     
     <categories>
       
-      <category>爱情</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>爱情</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1320,16 +1332,16 @@
     
     <categories>
       
-      <category>人文</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>人生</tag>
-      
-      <tag>人文</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1347,16 +1359,16 @@
     
     <categories>
       
-      <category>生命</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>生物</tag>
-      
-      <tag>生命</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1374,14 +1386,16 @@
     
     <categories>
       
-      <category>爱情</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>爱情</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1399,14 +1413,16 @@
     
     <categories>
       
-      <category>人文</category>
+      <category>文学</category>
+      
+      <category>短文</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>人文</tag>
+      <tag>文学</tag>
       
     </tags>
     
@@ -1425,6 +1441,8 @@
     <categories>
       
       <category>文学</category>
+      
+      <category>文案</category>
       
     </categories>
     
@@ -1451,14 +1469,14 @@
       
       <category>文学</category>
       
+      <category>短文</category>
+      
     </categories>
     
     
     <tags>
       
       <tag>文学</tag>
-      
-      <tag>爱情</tag>
       
     </tags>
     
@@ -1478,14 +1496,14 @@
       
       <category>文学</category>
       
+      <category>短文</category>
+      
     </categories>
     
     
     <tags>
       
       <tag>文学</tag>
-      
-      <tag>爱情</tag>
       
     </tags>
     
@@ -1505,14 +1523,14 @@
       
       <category>文学</category>
       
+      <category>短文</category>
+      
     </categories>
     
     
     <tags>
       
       <tag>文学</tag>
-      
-      <tag>爱情</tag>
       
     </tags>
     
