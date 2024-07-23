@@ -19,17 +19,17 @@
     <meta name="description" content="版本管理工具一般具有如下特性: 121) 能够记录历史版本,回退历史版本2) 团队开发,方便代码合并  1. 版本管理工具介绍现在比较流行的版本管理工具是git ,但是实际上git 是近几年才发展起来的,可能有一些老的项目,还在用一些老的软件,比如svn 1.1版本管理发展简史(维基百科)  1.1.1 SVN(SubVersion)工作流程 1234SVN是集中式版本控制系统，版本库是集中放在">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Git教程基础常用命令">
-<meta property="og:url" content="https://blog.itmua.cn/2023/05/25/git%E6%95%99%E7%A8%8B%E5%9F%BA%E7%A1%80%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/index.html">
+<meta property="og:url" content="https://blog.itmmu.com/2023/05/25/git%E6%95%99%E7%A8%8B%E5%9F%BA%E7%A1%80%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/index.html">
 <meta property="og:site_name" content="繁星文学网-免费分享技术教程文案笔记的资源网站">
 <meta property="og:description" content="版本管理工具一般具有如下特性: 121) 能够记录历史版本,回退历史版本2) 团队开发,方便代码合并  1. 版本管理工具介绍现在比较流行的版本管理工具是git ,但是实际上git 是近几年才发展起来的,可能有一些老的项目,还在用一些老的软件,比如svn 1.1版本管理发展简史(维基百科)  1.1.1 SVN(SubVersion)工作流程 1234SVN是集中式版本控制系统，版本库是集中放在">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://blog.itmua.cn/docs/img/git/gitlogo.png">
+<meta property="og:image" content="https://blog.itmmu.com/docs/img/git/gitlogo.png">
 <meta property="article:published_time" content="2023-05-25T03:11:36.000Z">
 <meta property="article:modified_time" content="2023-06-10T00:43:32.774Z">
 <meta property="article:author" content="itmua">
 <meta property="article:tag" content="Git">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://blog.itmua.cn/docs/img/git/gitlogo.png">
+<meta name="twitter:image" content="https://blog.itmmu.com/docs/img/git/gitlogo.png">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
@@ -73,7 +73,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"blog.itmua.cn","root":"/","version":"1.9.0","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":true,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":"85211b8f1008bdbb976c2fd818ddbd3d","google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
+    var CONFIG = {"hostname":"blog.itmmu.com","root":"/","version":"1.9.0","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":true,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":"85211b8f1008bdbb976c2fd818ddbd3d","google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -162,7 +162,7 @@ var _hmt = _hmt || [];
           
           
             <li class="nav-item">
-              <a class="nav-link" target="_blank" rel="noopener" href="https://blog.itmmu.com/docs/">
+              <a class="nav-link" href="https://blog.itmmu.com/docs/">
                 <i class="iconfont icon-book"></i>
                 文档
               </a>
@@ -474,7 +474,7 @@ var _hmt = _hmt || [];
   <div class="license-box my-3">
     <div class="license-title">
       <div>Git教程基础常用命令</div>
-      <div>https://blog.itmua.cn/2023/05/25/git教程基础常用命令/</div>
+      <div>https://blog.itmmu.com/2023/05/25/git教程基础常用命令/</div>
     </div>
     <div class="license-meta">
       
