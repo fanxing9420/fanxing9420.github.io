@@ -8,7 +8,7 @@
         minSize     : 10,
         maxSize     : 20,
         newOn       : 1000,
-        flakeColor  : "#AFDAEF" /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */
+        flakeColor  : "#FFFFFF" /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */
     },
     options = $.extend({}, defaults, options);
     var interval= setInterval( function(){
@@ -92,7 +92,7 @@ function snowCanvas() {
 function flakeMove(canvasWidth, canvasHeight, flakeSize, fallSpeed) {
     this.x = Math.floor(Math.random() * canvasWidth);   /* x坐标 */
     this.y = Math.floor(Math.random() * canvasHeight);  /* y坐标 */
-    this.size = Math.random() * flakeSize + 2;          /* 形状 */
+    this.size = Math.random() * flakeSize + 100;          /* 形状 */
     this.maxSize = flakeSize;                           /* 最大形状 */
     this.speed = Math.random() * 1 + fallSpeed;         /* 坠落速度 */
     this.fallSpeed = fallSpeed;                         /* 坠落速度 */

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>繁星文学网-免费分享技术教程文案笔记的资源网站</title>
+  <title>沐小沐的屋-构造我的数字宇宙-免费分享技术教程文案笔记的资源网站</title>
   
   <subtitle>Blog</subtitle>
   <link href="https://blog.itmmu.com/atom.xml" rel="self"/>
@@ -141,9 +141,9 @@
     <category term="JavaScript" scheme="https://blog.itmmu.com/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
     
     
-    <category term="JavaScript" scheme="https://blog.itmmu.com/tags/JavaScript/"/>
-    
     <category term="技术教程" scheme="https://blog.itmmu.com/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="JavaScript" scheme="https://blog.itmmu.com/tags/JavaScript/"/>
     
   </entry>
   
